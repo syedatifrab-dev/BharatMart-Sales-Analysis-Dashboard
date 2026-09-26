@@ -1,0 +1,1060 @@
+ProductID,ProductName,Category,SubCategory,Brand,IsIndianBrand,Supplier
+PROD10001,Tata Rice & Pulses Item,Groceries,Rice & Pulses,Tata,Yes,Supplier B
+PROD10002,Tata Rice & Pulses Item,Groceries,Rice & Pulses,Tata,Yes,Supplier C
+PROD10003,MDH Rice & Pulses Item,Groceries,Rice & Pulses,MDH,No,Supplier C
+PROD10004,Everest Rice & Pulses Item,Groceries,Rice & Pulses,Everest,No,Supplier A
+PROD10005,Amul Rice & Pulses Item,Groceries,Rice & Pulses,Amul,Yes,Supplier A
+PROD10006,Tata Rice & Pulses Item,Groceries,Rice & Pulses,Tata,Yes,Supplier C
+PROD10007,Dawat Rice & Pulses Item,Groceries,Rice & Pulses,Dawat,No,Supplier B
+PROD10008,Amul Rice & Pulses Item,Groceries,Rice & Pulses,Amul,Yes,Supplier C
+PROD10009,Tata Rice & Pulses Item,Groceries,Rice & Pulses,Tata,Yes,Supplier A
+PROD10010,Amul Rice & Pulses Item,Groceries,Rice & Pulses,Amul,Yes,Supplier B
+PROD10011,Dawat Rice & Pulses Item,Groceries,Rice & Pulses,Dawat,No,Supplier D
+PROD10012,MDH Rice & Pulses Item,Groceries,Rice & Pulses,MDH,No,Supplier A
+PROD10013,Amul Rice & Pulses Item,Groceries,Rice & Pulses,Amul,Yes,Supplier C
+PROD10014,Everest Rice & Pulses Item,Groceries,Rice & Pulses,Everest,No,Supplier D
+PROD10015,Aashirvaad Rice & Pulses Item,Groceries,Rice & Pulses,Aashirvaad,Yes,Supplier D
+PROD10016,Aashirvaad Rice & Pulses Item,Groceries,Rice & Pulses,Aashirvaad,Yes,Supplier B
+PROD10017,Everest Rice & Pulses Item,Groceries,Rice & Pulses,Everest,No,Supplier A
+PROD10018,Fortune Rice & Pulses Item,Groceries,Rice & Pulses,Fortune,No,Supplier C
+PROD10019,Amul Rice & Pulses Item,Groceries,Rice & Pulses,Amul,Yes,Supplier C
+PROD10020,Dawat Rice & Pulses Item,Groceries,Rice & Pulses,Dawat,No,Supplier A
+PROD10021,Everest Rice & Pulses Item,Groceries,Rice & Pulses,Everest,No,Supplier C
+PROD10022,Amul Rice & Pulses Item,Groceries,Rice & Pulses,Amul,Yes,Supplier B
+PROD10023,Everest Rice & Pulses Item,Groceries,Rice & Pulses,Everest,No,Supplier C
+PROD10024,Amul Rice & Pulses Item,Groceries,Rice & Pulses,Amul,Yes,Supplier A
+PROD10025,Amul Rice & Pulses Item,Groceries,Rice & Pulses,Amul,Yes,Supplier D
+PROD10026,Amul Rice & Pulses Item,Groceries,Rice & Pulses,Amul,Yes,Supplier B
+PROD10027,MDH Rice & Pulses Item,Groceries,Rice & Pulses,MDH,No,Supplier B
+PROD10028,Everest Rice & Pulses Item,Groceries,Rice & Pulses,Everest,No,Supplier A
+PROD10029,Dawat Rice & Pulses Item,Groceries,Rice & Pulses,Dawat,No,Supplier D
+PROD10030,Amul Rice & Pulses Item,Groceries,Rice & Pulses,Amul,Yes,Supplier D
+PROD10031,Fortune Rice & Pulses Item,Groceries,Rice & Pulses,Fortune,No,Supplier D
+PROD10032,Dawat Rice & Pulses Item,Groceries,Rice & Pulses,Dawat,No,Supplier B
+PROD10033,MDH Oils & Ghee Item,Groceries,Oils & Ghee,MDH,No,Supplier B
+PROD10034,Fortune Oils & Ghee Item,Groceries,Oils & Ghee,Fortune,No,Supplier D
+PROD10035,Aashirvaad Oils & Ghee Item,Groceries,Oils & Ghee,Aashirvaad,Yes,Supplier B
+PROD10036,Fortune Oils & Ghee Item,Groceries,Oils & Ghee,Fortune,No,Supplier A
+PROD10037,Fortune Oils & Ghee Item,Groceries,Oils & Ghee,Fortune,No,Supplier C
+PROD10038,Tata Oils & Ghee Item,Groceries,Oils & Ghee,Tata,Yes,Supplier B
+PROD10039,Dawat Oils & Ghee Item,Groceries,Oils & Ghee,Dawat,No,Supplier B
+PROD10040,Dawat Oils & Ghee Item,Groceries,Oils & Ghee,Dawat,No,Supplier B
+PROD10041,Everest Oils & Ghee Item,Groceries,Oils & Ghee,Everest,No,Supplier D
+PROD10042,Amul Oils & Ghee Item,Groceries,Oils & Ghee,Amul,Yes,Supplier A
+PROD10043,Tata Oils & Ghee Item,Groceries,Oils & Ghee,Tata,Yes,Supplier C
+PROD10044,Amul Oils & Ghee Item,Groceries,Oils & Ghee,Amul,Yes,Supplier B
+PROD10045,Fortune Oils & Ghee Item,Groceries,Oils & Ghee,Fortune,No,Supplier D
+PROD10046,Fortune Oils & Ghee Item,Groceries,Oils & Ghee,Fortune,No,Supplier A
+PROD10047,Fortune Oils & Ghee Item,Groceries,Oils & Ghee,Fortune,No,Supplier C
+PROD10048,Fortune Oils & Ghee Item,Groceries,Oils & Ghee,Fortune,No,Supplier B
+PROD10049,Everest Oils & Ghee Item,Groceries,Oils & Ghee,Everest,No,Supplier A
+PROD10050,Everest Oils & Ghee Item,Groceries,Oils & Ghee,Everest,No,Supplier A
+PROD10051,Dawat Oils & Ghee Item,Groceries,Oils & Ghee,Dawat,No,Supplier B
+PROD10052,Tata Oils & Ghee Item,Groceries,Oils & Ghee,Tata,Yes,Supplier A
+PROD10053,Dawat Oils & Ghee Item,Groceries,Oils & Ghee,Dawat,No,Supplier B
+PROD10054,Aashirvaad Oils & Ghee Item,Groceries,Oils & Ghee,Aashirvaad,Yes,Supplier A
+PROD10055,Dawat Oils & Ghee Item,Groceries,Oils & Ghee,Dawat,No,Supplier A
+PROD10056,MDH Oils & Ghee Item,Groceries,Oils & Ghee,MDH,No,Supplier D
+PROD10057,Aashirvaad Oils & Ghee Item,Groceries,Oils & Ghee,Aashirvaad,Yes,Supplier A
+PROD10058,Aashirvaad Oils & Ghee Item,Groceries,Oils & Ghee,Aashirvaad,Yes,Supplier C
+PROD10059,Aashirvaad Oils & Ghee Item,Groceries,Oils & Ghee,Aashirvaad,Yes,Supplier D
+PROD10060,Amul Oils & Ghee Item,Groceries,Oils & Ghee,Amul,Yes,Supplier D
+PROD10061,MDH Oils & Ghee Item,Groceries,Oils & Ghee,MDH,No,Supplier B
+PROD10062,Tata Oils & Ghee Item,Groceries,Oils & Ghee,Tata,Yes,Supplier A
+PROD10063,Tata Spices Item,Groceries,Spices,Tata,Yes,Supplier C
+PROD10064,Everest Spices Item,Groceries,Spices,Everest,No,Supplier C
+PROD10065,Aashirvaad Spices Item,Groceries,Spices,Aashirvaad,Yes,Supplier C
+PROD10066,Everest Spices Item,Groceries,Spices,Everest,No,Supplier C
+PROD10067,Fortune Spices Item,Groceries,Spices,Fortune,No,Supplier D
+PROD10068,Amul Spices Item,Groceries,Spices,Amul,Yes,Supplier B
+PROD10069,Everest Spices Item,Groceries,Spices,Everest,No,Supplier C
+PROD10070,Aashirvaad Spices Item,Groceries,Spices,Aashirvaad,Yes,Supplier A
+PROD10071,Everest Spices Item,Groceries,Spices,Everest,No,Supplier A
+PROD10072,MDH Spices Item,Groceries,Spices,MDH,No,Supplier B
+PROD10073,Tata Spices Item,Groceries,Spices,Tata,Yes,Supplier D
+PROD10074,Fortune Spices Item,Groceries,Spices,Fortune,No,Supplier C
+PROD10075,Aashirvaad Spices Item,Groceries,Spices,Aashirvaad,Yes,Supplier B
+PROD10076,Dawat Spices Item,Groceries,Spices,Dawat,No,Supplier A
+PROD10077,Tata Spices Item,Groceries,Spices,Tata,Yes,Supplier A
+PROD10078,Tata Spices Item,Groceries,Spices,Tata,Yes,Supplier A
+PROD10079,Aashirvaad Spices Item,Groceries,Spices,Aashirvaad,Yes,Supplier C
+PROD10080,Dawat Spices Item,Groceries,Spices,Dawat,No,Supplier A
+PROD10081,Fortune Spices Item,Groceries,Spices,Fortune,No,Supplier C
+PROD10082,Everest Spices Item,Groceries,Spices,Everest,No,Supplier C
+PROD10083,Tata Spices Item,Groceries,Spices,Tata,Yes,Supplier A
+PROD10084,Fortune Spices Item,Groceries,Spices,Fortune,No,Supplier A
+PROD10085,Everest Spices Item,Groceries,Spices,Everest,No,Supplier D
+PROD10086,Tata Spices Item,Groceries,Spices,Tata,Yes,Supplier B
+PROD10087,Dawat Spices Item,Groceries,Spices,Dawat,No,Supplier A
+PROD10088,Amul Spices Item,Groceries,Spices,Amul,Yes,Supplier D
+PROD10089,Dawat Spices Item,Groceries,Spices,Dawat,No,Supplier B
+PROD10090,Dawat Spices Item,Groceries,Spices,Dawat,No,Supplier B
+PROD10091,Aashirvaad Spices Item,Groceries,Spices,Aashirvaad,Yes,Supplier D
+PROD10092,Dawat Spices Item,Groceries,Spices,Dawat,No,Supplier A
+PROD10093,Dawat Spices Item,Groceries,Spices,Dawat,No,Supplier C
+PROD10094,Everest Spices Item,Groceries,Spices,Everest,No,Supplier B
+PROD10095,Everest Spices Item,Groceries,Spices,Everest,No,Supplier A
+PROD10096,Everest Spices Item,Groceries,Spices,Everest,No,Supplier D
+PROD10097,Fortune Spices Item,Groceries,Spices,Fortune,No,Supplier A
+PROD10098,Aashirvaad Spices Item,Groceries,Spices,Aashirvaad,Yes,Supplier A
+PROD10099,Amul Spices Item,Groceries,Spices,Amul,Yes,Supplier A
+PROD10100,Dawat Spices Item,Groceries,Spices,Dawat,No,Supplier B
+PROD10101,Tata Flour & Atta Item,Groceries,Flour & Atta,Tata,Yes,Supplier D
+PROD10102,MDH Flour & Atta Item,Groceries,Flour & Atta,MDH,No,Supplier B
+PROD10103,Fortune Flour & Atta Item,Groceries,Flour & Atta,Fortune,No,Supplier D
+PROD10104,Dawat Flour & Atta Item,Groceries,Flour & Atta,Dawat,No,Supplier B
+PROD10105,Aashirvaad Flour & Atta Item,Groceries,Flour & Atta,Aashirvaad,Yes,Supplier C
+PROD10106,Aashirvaad Flour & Atta Item,Groceries,Flour & Atta,Aashirvaad,Yes,Supplier B
+PROD10107,Tata Flour & Atta Item,Groceries,Flour & Atta,Tata,Yes,Supplier A
+PROD10108,MDH Flour & Atta Item,Groceries,Flour & Atta,MDH,No,Supplier A
+PROD10109,Dawat Flour & Atta Item,Groceries,Flour & Atta,Dawat,No,Supplier B
+PROD10110,Everest Flour & Atta Item,Groceries,Flour & Atta,Everest,No,Supplier B
+PROD10111,Dawat Flour & Atta Item,Groceries,Flour & Atta,Dawat,No,Supplier C
+PROD10112,Fortune Flour & Atta Item,Groceries,Flour & Atta,Fortune,No,Supplier C
+PROD10113,Tata Flour & Atta Item,Groceries,Flour & Atta,Tata,Yes,Supplier B
+PROD10114,MDH Flour & Atta Item,Groceries,Flour & Atta,MDH,No,Supplier D
+PROD10115,Amul Flour & Atta Item,Groceries,Flour & Atta,Amul,Yes,Supplier B
+PROD10116,MDH Flour & Atta Item,Groceries,Flour & Atta,MDH,No,Supplier C
+PROD10117,Tata Flour & Atta Item,Groceries,Flour & Atta,Tata,Yes,Supplier B
+PROD10118,MDH Flour & Atta Item,Groceries,Flour & Atta,MDH,No,Supplier D
+PROD10119,Amul Flour & Atta Item,Groceries,Flour & Atta,Amul,Yes,Supplier B
+PROD10120,MDH Flour & Atta Item,Groceries,Flour & Atta,MDH,No,Supplier A
+PROD10121,Everest Flour & Atta Item,Groceries,Flour & Atta,Everest,No,Supplier C
+PROD10122,MDH Flour & Atta Item,Groceries,Flour & Atta,MDH,No,Supplier B
+PROD10123,Fortune Flour & Atta Item,Groceries,Flour & Atta,Fortune,No,Supplier A
+PROD10124,Amul Flour & Atta Item,Groceries,Flour & Atta,Amul,Yes,Supplier B
+PROD10125,Dawat Flour & Atta Item,Groceries,Flour & Atta,Dawat,No,Supplier D
+PROD10126,MDH Flour & Atta Item,Groceries,Flour & Atta,MDH,No,Supplier B
+PROD10127,Fortune Flour & Atta Item,Groceries,Flour & Atta,Fortune,No,Supplier A
+PROD10128,MDH Flour & Atta Item,Groceries,Flour & Atta,MDH,No,Supplier D
+PROD10129,Amul Flour & Atta Item,Groceries,Flour & Atta,Amul,Yes,Supplier D
+PROD10130,Tata Flour & Atta Item,Groceries,Flour & Atta,Tata,Yes,Supplier C
+PROD10131,Everest Flour & Atta Item,Groceries,Flour & Atta,Everest,No,Supplier A
+PROD10132,Tata Flour & Atta Item,Groceries,Flour & Atta,Tata,Yes,Supplier A
+PROD10133,Fortune Flour & Atta Item,Groceries,Flour & Atta,Fortune,No,Supplier C
+PROD10134,MDH Flour & Atta Item,Groceries,Flour & Atta,MDH,No,Supplier A
+PROD10135,Dawat Flour & Atta Item,Groceries,Flour & Atta,Dawat,No,Supplier C
+PROD10136,MDH Flour & Atta Item,Groceries,Flour & Atta,MDH,No,Supplier C
+PROD10137,Everest Flour & Atta Item,Groceries,Flour & Atta,Everest,No,Supplier B
+PROD10138,Dawat Flour & Atta Item,Groceries,Flour & Atta,Dawat,No,Supplier A
+PROD10139,Amul Flour & Atta Item,Groceries,Flour & Atta,Amul,Yes,Supplier A
+PROD10140,Fortune Flour & Atta Item,Groceries,Flour & Atta,Fortune,No,Supplier B
+PROD10141,Tata Flour & Atta Item,Groceries,Flour & Atta,Tata,Yes,Supplier D
+PROD10142,Tata Sugar & Salt Item,Groceries,Sugar & Salt,Tata,Yes,Supplier D
+PROD10143,Dawat Sugar & Salt Item,Groceries,Sugar & Salt,Dawat,No,Supplier A
+PROD10144,Amul Sugar & Salt Item,Groceries,Sugar & Salt,Amul,Yes,Supplier A
+PROD10145,Dawat Sugar & Salt Item,Groceries,Sugar & Salt,Dawat,No,Supplier C
+PROD10146,Tata Sugar & Salt Item,Groceries,Sugar & Salt,Tata,Yes,Supplier A
+PROD10147,Dawat Sugar & Salt Item,Groceries,Sugar & Salt,Dawat,No,Supplier C
+PROD10148,Aashirvaad Sugar & Salt Item,Groceries,Sugar & Salt,Aashirvaad,Yes,Supplier C
+PROD10149,Dawat Sugar & Salt Item,Groceries,Sugar & Salt,Dawat,No,Supplier D
+PROD10150,Everest Sugar & Salt Item,Groceries,Sugar & Salt,Everest,No,Supplier D
+PROD10151,Dawat Sugar & Salt Item,Groceries,Sugar & Salt,Dawat,No,Supplier A
+PROD10152,Fortune Sugar & Salt Item,Groceries,Sugar & Salt,Fortune,No,Supplier C
+PROD10153,Aashirvaad Sugar & Salt Item,Groceries,Sugar & Salt,Aashirvaad,Yes,Supplier B
+PROD10154,Fortune Sugar & Salt Item,Groceries,Sugar & Salt,Fortune,No,Supplier A
+PROD10155,Aashirvaad Sugar & Salt Item,Groceries,Sugar & Salt,Aashirvaad,Yes,Supplier A
+PROD10156,Aashirvaad Sugar & Salt Item,Groceries,Sugar & Salt,Aashirvaad,Yes,Supplier C
+PROD10157,MDH Sugar & Salt Item,Groceries,Sugar & Salt,MDH,No,Supplier A
+PROD10158,Dawat Sugar & Salt Item,Groceries,Sugar & Salt,Dawat,No,Supplier C
+PROD10159,MDH Sugar & Salt Item,Groceries,Sugar & Salt,MDH,No,Supplier A
+PROD10160,Amul Sugar & Salt Item,Groceries,Sugar & Salt,Amul,Yes,Supplier D
+PROD10161,Everest Sugar & Salt Item,Groceries,Sugar & Salt,Everest,No,Supplier B
+PROD10162,Everest Sugar & Salt Item,Groceries,Sugar & Salt,Everest,No,Supplier D
+PROD10163,Tata Sugar & Salt Item,Groceries,Sugar & Salt,Tata,Yes,Supplier A
+PROD10164,Tata Sugar & Salt Item,Groceries,Sugar & Salt,Tata,Yes,Supplier D
+PROD10165,Everest Sugar & Salt Item,Groceries,Sugar & Salt,Everest,No,Supplier C
+PROD10166,Fortune Sugar & Salt Item,Groceries,Sugar & Salt,Fortune,No,Supplier C
+PROD10167,Aashirvaad Sugar & Salt Item,Groceries,Sugar & Salt,Aashirvaad,Yes,Supplier D
+PROD10168,MDH Sugar & Salt Item,Groceries,Sugar & Salt,MDH,No,Supplier C
+PROD10169,Dawat Sugar & Salt Item,Groceries,Sugar & Salt,Dawat,No,Supplier A
+PROD10170,Tata Sugar & Salt Item,Groceries,Sugar & Salt,Tata,Yes,Supplier D
+PROD10171,Dawat Sugar & Salt Item,Groceries,Sugar & Salt,Dawat,No,Supplier D
+PROD10172,Fortune Sugar & Salt Item,Groceries,Sugar & Salt,Fortune,No,Supplier B
+PROD10173,Fortune Sugar & Salt Item,Groceries,Sugar & Salt,Fortune,No,Supplier A
+PROD10174,Fortune Sugar & Salt Item,Groceries,Sugar & Salt,Fortune,No,Supplier A
+PROD10175,Tata Sugar & Salt Item,Groceries,Sugar & Salt,Tata,Yes,Supplier B
+PROD10176,Patanjali Bath & Body Item,Personal Care,Bath & Body,Patanjali,Yes,Supplier C
+PROD10177,Himalaya Bath & Body Item,Personal Care,Bath & Body,Himalaya,No,Supplier D
+PROD10178,Dove Bath & Body Item,Personal Care,Bath & Body,Dove,No,Supplier A
+PROD10179,Garnier Bath & Body Item,Personal Care,Bath & Body,Garnier,No,Supplier C
+PROD10180,Himalaya Bath & Body Item,Personal Care,Bath & Body,Himalaya,No,Supplier D
+PROD10181,Nivea Bath & Body Item,Personal Care,Bath & Body,Nivea,No,Supplier B
+PROD10182,Nivea Bath & Body Item,Personal Care,Bath & Body,Nivea,No,Supplier C
+PROD10183,Dove Bath & Body Item,Personal Care,Bath & Body,Dove,No,Supplier A
+PROD10184,Nivea Bath & Body Item,Personal Care,Bath & Body,Nivea,No,Supplier B
+PROD10185,Nivea Bath & Body Item,Personal Care,Bath & Body,Nivea,No,Supplier D
+PROD10186,Pantene Bath & Body Item,Personal Care,Bath & Body,Pantene,No,Supplier D
+PROD10187,Pantene Bath & Body Item,Personal Care,Bath & Body,Pantene,No,Supplier B
+PROD10188,Garnier Bath & Body Item,Personal Care,Bath & Body,Garnier,No,Supplier B
+PROD10189,Garnier Bath & Body Item,Personal Care,Bath & Body,Garnier,No,Supplier A
+PROD10190,Nivea Bath & Body Item,Personal Care,Bath & Body,Nivea,No,Supplier B
+PROD10191,Pantene Bath & Body Item,Personal Care,Bath & Body,Pantene,No,Supplier A
+PROD10192,Garnier Bath & Body Item,Personal Care,Bath & Body,Garnier,No,Supplier C
+PROD10193,Nivea Bath & Body Item,Personal Care,Bath & Body,Nivea,No,Supplier D
+PROD10194,Nivea Bath & Body Item,Personal Care,Bath & Body,Nivea,No,Supplier B
+PROD10195,Nivea Bath & Body Item,Personal Care,Bath & Body,Nivea,No,Supplier D
+PROD10196,Nivea Bath & Body Item,Personal Care,Bath & Body,Nivea,No,Supplier A
+PROD10197,Nivea Bath & Body Item,Personal Care,Bath & Body,Nivea,No,Supplier B
+PROD10198,Nivea Bath & Body Item,Personal Care,Bath & Body,Nivea,No,Supplier B
+PROD10199,Dove Bath & Body Item,Personal Care,Bath & Body,Dove,No,Supplier C
+PROD10200,Nivea Bath & Body Item,Personal Care,Bath & Body,Nivea,No,Supplier C
+PROD10201,Dove Bath & Body Item,Personal Care,Bath & Body,Dove,No,Supplier B
+PROD10202,Garnier Bath & Body Item,Personal Care,Bath & Body,Garnier,No,Supplier B
+PROD10203,Garnier Bath & Body Item,Personal Care,Bath & Body,Garnier,No,Supplier C
+PROD10204,Nivea Bath & Body Item,Personal Care,Bath & Body,Nivea,No,Supplier C
+PROD10205,Himalaya Bath & Body Item,Personal Care,Bath & Body,Himalaya,No,Supplier B
+PROD10206,Pantene Bath & Body Item,Personal Care,Bath & Body,Pantene,No,Supplier B
+PROD10207,Himalaya Bath & Body Item,Personal Care,Bath & Body,Himalaya,No,Supplier A
+PROD10208,Garnier Bath & Body Item,Personal Care,Bath & Body,Garnier,No,Supplier A
+PROD10209,Garnier Bath & Body Item,Personal Care,Bath & Body,Garnier,No,Supplier D
+PROD10210,Nivea Bath & Body Item,Personal Care,Bath & Body,Nivea,No,Supplier C
+PROD10211,Nivea Bath & Body Item,Personal Care,Bath & Body,Nivea,No,Supplier B
+PROD10212,Patanjali Bath & Body Item,Personal Care,Bath & Body,Patanjali,Yes,Supplier D
+PROD10213,Pantene Bath & Body Item,Personal Care,Bath & Body,Pantene,No,Supplier B
+PROD10214,Dove Bath & Body Item,Personal Care,Bath & Body,Dove,No,Supplier B
+PROD10215,Nivea Hair Care Item,Personal Care,Hair Care,Nivea,No,Supplier A
+PROD10216,Dove Hair Care Item,Personal Care,Hair Care,Dove,No,Supplier B
+PROD10217,Himalaya Hair Care Item,Personal Care,Hair Care,Himalaya,No,Supplier D
+PROD10218,Pantene Hair Care Item,Personal Care,Hair Care,Pantene,No,Supplier D
+PROD10219,Garnier Hair Care Item,Personal Care,Hair Care,Garnier,No,Supplier B
+PROD10220,Himalaya Hair Care Item,Personal Care,Hair Care,Himalaya,No,Supplier A
+PROD10221,Garnier Hair Care Item,Personal Care,Hair Care,Garnier,No,Supplier A
+PROD10222,Himalaya Hair Care Item,Personal Care,Hair Care,Himalaya,No,Supplier D
+PROD10223,Pantene Hair Care Item,Personal Care,Hair Care,Pantene,No,Supplier C
+PROD10224,Dove Hair Care Item,Personal Care,Hair Care,Dove,No,Supplier B
+PROD10225,Patanjali Hair Care Item,Personal Care,Hair Care,Patanjali,Yes,Supplier C
+PROD10226,Patanjali Hair Care Item,Personal Care,Hair Care,Patanjali,Yes,Supplier D
+PROD10227,Patanjali Hair Care Item,Personal Care,Hair Care,Patanjali,Yes,Supplier A
+PROD10228,Pantene Hair Care Item,Personal Care,Hair Care,Pantene,No,Supplier A
+PROD10229,Nivea Hair Care Item,Personal Care,Hair Care,Nivea,No,Supplier B
+PROD10230,Himalaya Hair Care Item,Personal Care,Hair Care,Himalaya,No,Supplier D
+PROD10231,Dove Hair Care Item,Personal Care,Hair Care,Dove,No,Supplier A
+PROD10232,Dove Hair Care Item,Personal Care,Hair Care,Dove,No,Supplier C
+PROD10233,Dove Hair Care Item,Personal Care,Hair Care,Dove,No,Supplier C
+PROD10234,Pantene Hair Care Item,Personal Care,Hair Care,Pantene,No,Supplier D
+PROD10235,Patanjali Hair Care Item,Personal Care,Hair Care,Patanjali,Yes,Supplier D
+PROD10236,Pantene Hair Care Item,Personal Care,Hair Care,Pantene,No,Supplier B
+PROD10237,Pantene Hair Care Item,Personal Care,Hair Care,Pantene,No,Supplier D
+PROD10238,Nivea Hair Care Item,Personal Care,Hair Care,Nivea,No,Supplier A
+PROD10239,Dove Hair Care Item,Personal Care,Hair Care,Dove,No,Supplier D
+PROD10240,Pantene Hair Care Item,Personal Care,Hair Care,Pantene,No,Supplier B
+PROD10241,Pantene Hair Care Item,Personal Care,Hair Care,Pantene,No,Supplier B
+PROD10242,Dove Hair Care Item,Personal Care,Hair Care,Dove,No,Supplier B
+PROD10243,Himalaya Hair Care Item,Personal Care,Hair Care,Himalaya,No,Supplier D
+PROD10244,Patanjali Hair Care Item,Personal Care,Hair Care,Patanjali,Yes,Supplier B
+PROD10245,Patanjali Hair Care Item,Personal Care,Hair Care,Patanjali,Yes,Supplier A
+PROD10246,Himalaya Hair Care Item,Personal Care,Hair Care,Himalaya,No,Supplier D
+PROD10247,Pantene Hair Care Item,Personal Care,Hair Care,Pantene,No,Supplier B
+PROD10248,Dove Hair Care Item,Personal Care,Hair Care,Dove,No,Supplier B
+PROD10249,Patanjali Hair Care Item,Personal Care,Hair Care,Patanjali,Yes,Supplier D
+PROD10250,Nivea Hair Care Item,Personal Care,Hair Care,Nivea,No,Supplier C
+PROD10251,Dove Hair Care Item,Personal Care,Hair Care,Dove,No,Supplier C
+PROD10252,Dove Hair Care Item,Personal Care,Hair Care,Dove,No,Supplier B
+PROD10253,Dove Hair Care Item,Personal Care,Hair Care,Dove,No,Supplier A
+PROD10254,Patanjali Skin Care Item,Personal Care,Skin Care,Patanjali,Yes,Supplier A
+PROD10255,Nivea Skin Care Item,Personal Care,Skin Care,Nivea,No,Supplier A
+PROD10256,Patanjali Skin Care Item,Personal Care,Skin Care,Patanjali,Yes,Supplier A
+PROD10257,Himalaya Skin Care Item,Personal Care,Skin Care,Himalaya,No,Supplier A
+PROD10258,Pantene Skin Care Item,Personal Care,Skin Care,Pantene,No,Supplier D
+PROD10259,Garnier Skin Care Item,Personal Care,Skin Care,Garnier,No,Supplier B
+PROD10260,Garnier Skin Care Item,Personal Care,Skin Care,Garnier,No,Supplier A
+PROD10261,Nivea Skin Care Item,Personal Care,Skin Care,Nivea,No,Supplier D
+PROD10262,Nivea Skin Care Item,Personal Care,Skin Care,Nivea,No,Supplier B
+PROD10263,Dove Skin Care Item,Personal Care,Skin Care,Dove,No,Supplier A
+PROD10264,Himalaya Skin Care Item,Personal Care,Skin Care,Himalaya,No,Supplier A
+PROD10265,Pantene Skin Care Item,Personal Care,Skin Care,Pantene,No,Supplier B
+PROD10266,Pantene Skin Care Item,Personal Care,Skin Care,Pantene,No,Supplier C
+PROD10267,Dove Skin Care Item,Personal Care,Skin Care,Dove,No,Supplier C
+PROD10268,Dove Skin Care Item,Personal Care,Skin Care,Dove,No,Supplier C
+PROD10269,Nivea Skin Care Item,Personal Care,Skin Care,Nivea,No,Supplier A
+PROD10270,Himalaya Skin Care Item,Personal Care,Skin Care,Himalaya,No,Supplier D
+PROD10271,Pantene Skin Care Item,Personal Care,Skin Care,Pantene,No,Supplier B
+PROD10272,Himalaya Skin Care Item,Personal Care,Skin Care,Himalaya,No,Supplier C
+PROD10273,Patanjali Skin Care Item,Personal Care,Skin Care,Patanjali,Yes,Supplier D
+PROD10274,Patanjali Skin Care Item,Personal Care,Skin Care,Patanjali,Yes,Supplier D
+PROD10275,Pantene Skin Care Item,Personal Care,Skin Care,Pantene,No,Supplier C
+PROD10276,Patanjali Skin Care Item,Personal Care,Skin Care,Patanjali,Yes,Supplier A
+PROD10277,Patanjali Skin Care Item,Personal Care,Skin Care,Patanjali,Yes,Supplier B
+PROD10278,Dove Skin Care Item,Personal Care,Skin Care,Dove,No,Supplier D
+PROD10279,Patanjali Skin Care Item,Personal Care,Skin Care,Patanjali,Yes,Supplier A
+PROD10280,Himalaya Skin Care Item,Personal Care,Skin Care,Himalaya,No,Supplier D
+PROD10281,Garnier Skin Care Item,Personal Care,Skin Care,Garnier,No,Supplier C
+PROD10282,Patanjali Skin Care Item,Personal Care,Skin Care,Patanjali,Yes,Supplier B
+PROD10283,Garnier Skin Care Item,Personal Care,Skin Care,Garnier,No,Supplier C
+PROD10284,Himalaya Skin Care Item,Personal Care,Skin Care,Himalaya,No,Supplier C
+PROD10285,Pantene Skin Care Item,Personal Care,Skin Care,Pantene,No,Supplier B
+PROD10286,Dove Skin Care Item,Personal Care,Skin Care,Dove,No,Supplier B
+PROD10287,Nivea Skin Care Item,Personal Care,Skin Care,Nivea,No,Supplier A
+PROD10288,Patanjali Oral Care Item,Personal Care,Oral Care,Patanjali,Yes,Supplier D
+PROD10289,Garnier Oral Care Item,Personal Care,Oral Care,Garnier,No,Supplier B
+PROD10290,Dove Oral Care Item,Personal Care,Oral Care,Dove,No,Supplier C
+PROD10291,Dove Oral Care Item,Personal Care,Oral Care,Dove,No,Supplier A
+PROD10292,Nivea Oral Care Item,Personal Care,Oral Care,Nivea,No,Supplier B
+PROD10293,Garnier Oral Care Item,Personal Care,Oral Care,Garnier,No,Supplier B
+PROD10294,Patanjali Oral Care Item,Personal Care,Oral Care,Patanjali,Yes,Supplier B
+PROD10295,Dove Oral Care Item,Personal Care,Oral Care,Dove,No,Supplier B
+PROD10296,Dove Oral Care Item,Personal Care,Oral Care,Dove,No,Supplier C
+PROD10297,Himalaya Oral Care Item,Personal Care,Oral Care,Himalaya,No,Supplier A
+PROD10298,Dove Oral Care Item,Personal Care,Oral Care,Dove,No,Supplier B
+PROD10299,Patanjali Oral Care Item,Personal Care,Oral Care,Patanjali,Yes,Supplier A
+PROD10300,Garnier Oral Care Item,Personal Care,Oral Care,Garnier,No,Supplier C
+PROD10301,Himalaya Oral Care Item,Personal Care,Oral Care,Himalaya,No,Supplier C
+PROD10302,Himalaya Oral Care Item,Personal Care,Oral Care,Himalaya,No,Supplier A
+PROD10303,Pantene Oral Care Item,Personal Care,Oral Care,Pantene,No,Supplier A
+PROD10304,Garnier Oral Care Item,Personal Care,Oral Care,Garnier,No,Supplier C
+PROD10305,Himalaya Oral Care Item,Personal Care,Oral Care,Himalaya,No,Supplier C
+PROD10306,Garnier Oral Care Item,Personal Care,Oral Care,Garnier,No,Supplier C
+PROD10307,Pantene Oral Care Item,Personal Care,Oral Care,Pantene,No,Supplier B
+PROD10308,Garnier Oral Care Item,Personal Care,Oral Care,Garnier,No,Supplier B
+PROD10309,Patanjali Oral Care Item,Personal Care,Oral Care,Patanjali,Yes,Supplier D
+PROD10310,Patanjali Oral Care Item,Personal Care,Oral Care,Patanjali,Yes,Supplier D
+PROD10311,Pantene Oral Care Item,Personal Care,Oral Care,Pantene,No,Supplier A
+PROD10312,Nivea Oral Care Item,Personal Care,Oral Care,Nivea,No,Supplier D
+PROD10313,Garnier Oral Care Item,Personal Care,Oral Care,Garnier,No,Supplier C
+PROD10314,Garnier Oral Care Item,Personal Care,Oral Care,Garnier,No,Supplier C
+PROD10315,Nivea Oral Care Item,Personal Care,Oral Care,Nivea,No,Supplier C
+PROD10316,Pantene Oral Care Item,Personal Care,Oral Care,Pantene,No,Supplier C
+PROD10317,Patanjali Oral Care Item,Personal Care,Oral Care,Patanjali,Yes,Supplier D
+PROD10318,Nivea Oral Care Item,Personal Care,Oral Care,Nivea,No,Supplier D
+PROD10319,Himalaya Oral Care Item,Personal Care,Oral Care,Himalaya,No,Supplier A
+PROD10320,Pantene Oral Care Item,Personal Care,Oral Care,Pantene,No,Supplier B
+PROD10321,Garnier Oral Care Item,Personal Care,Oral Care,Garnier,No,Supplier B
+PROD10322,Patanjali Oral Care Item,Personal Care,Oral Care,Patanjali,Yes,Supplier A
+PROD10323,Dove Oral Care Item,Personal Care,Oral Care,Dove,No,Supplier D
+PROD10324,Dove Oral Care Item,Personal Care,Oral Care,Dove,No,Supplier B
+PROD10325,Dove Oral Care Item,Personal Care,Oral Care,Dove,No,Supplier B
+PROD10326,Garnier Oral Care Item,Personal Care,Oral Care,Garnier,No,Supplier B
+PROD10327,Himalaya Oral Care Item,Personal Care,Oral Care,Himalaya,No,Supplier D
+PROD10328,Dove Oral Care Item,Personal Care,Oral Care,Dove,No,Supplier D
+PROD10329,Pantene Oral Care Item,Personal Care,Oral Care,Pantene,No,Supplier C
+PROD10330,Garnier Oral Care Item,Personal Care,Oral Care,Garnier,No,Supplier B
+PROD10331,Dove Oral Care Item,Personal Care,Oral Care,Dove,No,Supplier D
+PROD10332,Nivea Fragrances Item,Personal Care,Fragrances,Nivea,No,Supplier B
+PROD10333,Himalaya Fragrances Item,Personal Care,Fragrances,Himalaya,No,Supplier D
+PROD10334,Pantene Fragrances Item,Personal Care,Fragrances,Pantene,No,Supplier A
+PROD10335,Pantene Fragrances Item,Personal Care,Fragrances,Pantene,No,Supplier B
+PROD10336,Himalaya Fragrances Item,Personal Care,Fragrances,Himalaya,No,Supplier D
+PROD10337,Nivea Fragrances Item,Personal Care,Fragrances,Nivea,No,Supplier C
+PROD10338,Garnier Fragrances Item,Personal Care,Fragrances,Garnier,No,Supplier B
+PROD10339,Dove Fragrances Item,Personal Care,Fragrances,Dove,No,Supplier C
+PROD10340,Dove Fragrances Item,Personal Care,Fragrances,Dove,No,Supplier D
+PROD10341,Nivea Fragrances Item,Personal Care,Fragrances,Nivea,No,Supplier D
+PROD10342,Nivea Fragrances Item,Personal Care,Fragrances,Nivea,No,Supplier C
+PROD10343,Nivea Fragrances Item,Personal Care,Fragrances,Nivea,No,Supplier A
+PROD10344,Pantene Fragrances Item,Personal Care,Fragrances,Pantene,No,Supplier A
+PROD10345,Patanjali Fragrances Item,Personal Care,Fragrances,Patanjali,Yes,Supplier A
+PROD10346,Nivea Fragrances Item,Personal Care,Fragrances,Nivea,No,Supplier A
+PROD10347,Nivea Fragrances Item,Personal Care,Fragrances,Nivea,No,Supplier C
+PROD10348,Dove Fragrances Item,Personal Care,Fragrances,Dove,No,Supplier C
+PROD10349,Patanjali Fragrances Item,Personal Care,Fragrances,Patanjali,Yes,Supplier B
+PROD10350,Nivea Fragrances Item,Personal Care,Fragrances,Nivea,No,Supplier A
+PROD10351,Garnier Fragrances Item,Personal Care,Fragrances,Garnier,No,Supplier C
+PROD10352,Patanjali Fragrances Item,Personal Care,Fragrances,Patanjali,Yes,Supplier A
+PROD10353,Dove Fragrances Item,Personal Care,Fragrances,Dove,No,Supplier B
+PROD10354,Garnier Fragrances Item,Personal Care,Fragrances,Garnier,No,Supplier C
+PROD10355,Dove Fragrances Item,Personal Care,Fragrances,Dove,No,Supplier A
+PROD10356,Patanjali Fragrances Item,Personal Care,Fragrances,Patanjali,Yes,Supplier D
+PROD10357,Garnier Fragrances Item,Personal Care,Fragrances,Garnier,No,Supplier D
+PROD10358,Patanjali Fragrances Item,Personal Care,Fragrances,Patanjali,Yes,Supplier A
+PROD10359,Patanjali Fragrances Item,Personal Care,Fragrances,Patanjali,Yes,Supplier D
+PROD10360,Dove Fragrances Item,Personal Care,Fragrances,Dove,No,Supplier B
+PROD10361,Pantene Fragrances Item,Personal Care,Fragrances,Pantene,No,Supplier B
+PROD10362,Himalaya Fragrances Item,Personal Care,Fragrances,Himalaya,No,Supplier A
+PROD10363,Patanjali Fragrances Item,Personal Care,Fragrances,Patanjali,Yes,Supplier A
+PROD10364,Himalaya Fragrances Item,Personal Care,Fragrances,Himalaya,No,Supplier C
+PROD10365,Patanjali Fragrances Item,Personal Care,Fragrances,Patanjali,Yes,Supplier A
+PROD10366,Pantene Fragrances Item,Personal Care,Fragrances,Pantene,No,Supplier B
+PROD10367,Pantene Fragrances Item,Personal Care,Fragrances,Pantene,No,Supplier D
+PROD10368,Patanjali Fragrances Item,Personal Care,Fragrances,Patanjali,Yes,Supplier B
+PROD10369,Pantene Fragrances Item,Personal Care,Fragrances,Pantene,No,Supplier B
+PROD10370,Patanjali Fragrances Item,Personal Care,Fragrances,Patanjali,Yes,Supplier D
+PROD10371,Garnier Fragrances Item,Personal Care,Fragrances,Garnier,No,Supplier D
+PROD10372,Vim Detergents Item,Home Care,Detergents,Vim,No,Supplier B
+PROD10373,Lizol Detergents Item,Home Care,Detergents,Lizol,No,Supplier D
+PROD10374,Surf Excel Detergents Item,Home Care,Detergents,Surf Excel,No,Supplier C
+PROD10375,Surf Excel Detergents Item,Home Care,Detergents,Surf Excel,No,Supplier D
+PROD10376,Surf Excel Detergents Item,Home Care,Detergents,Surf Excel,No,Supplier A
+PROD10377,Odonil Detergents Item,Home Care,Detergents,Odonil,No,Supplier A
+PROD10378,Odonil Detergents Item,Home Care,Detergents,Odonil,No,Supplier A
+PROD10379,Vim Detergents Item,Home Care,Detergents,Vim,No,Supplier D
+PROD10380,Vim Detergents Item,Home Care,Detergents,Vim,No,Supplier A
+PROD10381,Lizol Detergents Item,Home Care,Detergents,Lizol,No,Supplier C
+PROD10382,Harpic Detergents Item,Home Care,Detergents,Harpic,No,Supplier B
+PROD10383,Lizol Detergents Item,Home Care,Detergents,Lizol,No,Supplier A
+PROD10384,Surf Excel Detergents Item,Home Care,Detergents,Surf Excel,No,Supplier D
+PROD10385,Surf Excel Detergents Item,Home Care,Detergents,Surf Excel,No,Supplier A
+PROD10386,Surf Excel Detergents Item,Home Care,Detergents,Surf Excel,No,Supplier B
+PROD10387,Lizol Detergents Item,Home Care,Detergents,Lizol,No,Supplier A
+PROD10388,Vim Detergents Item,Home Care,Detergents,Vim,No,Supplier D
+PROD10389,Surf Excel Detergents Item,Home Care,Detergents,Surf Excel,No,Supplier A
+PROD10390,Odonil Detergents Item,Home Care,Detergents,Odonil,No,Supplier B
+PROD10391,Vim Detergents Item,Home Care,Detergents,Vim,No,Supplier A
+PROD10392,Vim Detergents Item,Home Care,Detergents,Vim,No,Supplier C
+PROD10393,Surf Excel Detergents Item,Home Care,Detergents,Surf Excel,No,Supplier C
+PROD10394,Harpic Detergents Item,Home Care,Detergents,Harpic,No,Supplier A
+PROD10395,Surf Excel Detergents Item,Home Care,Detergents,Surf Excel,No,Supplier A
+PROD10396,Vim Detergents Item,Home Care,Detergents,Vim,No,Supplier A
+PROD10397,Odonil Detergents Item,Home Care,Detergents,Odonil,No,Supplier D
+PROD10398,Surf Excel Detergents Item,Home Care,Detergents,Surf Excel,No,Supplier B
+PROD10399,Odonil Detergents Item,Home Care,Detergents,Odonil,No,Supplier A
+PROD10400,Odonil Detergents Item,Home Care,Detergents,Odonil,No,Supplier B
+PROD10401,Harpic Detergents Item,Home Care,Detergents,Harpic,No,Supplier C
+PROD10402,Harpic Detergents Item,Home Care,Detergents,Harpic,No,Supplier D
+PROD10403,Odonil Detergents Item,Home Care,Detergents,Odonil,No,Supplier D
+PROD10404,Lizol Detergents Item,Home Care,Detergents,Lizol,No,Supplier C
+PROD10405,Lizol Detergents Item,Home Care,Detergents,Lizol,No,Supplier C
+PROD10406,Odonil Detergents Item,Home Care,Detergents,Odonil,No,Supplier A
+PROD10407,Lizol Detergents Item,Home Care,Detergents,Lizol,No,Supplier D
+PROD10408,Harpic Detergents Item,Home Care,Detergents,Harpic,No,Supplier A
+PROD10409,Harpic Detergents Item,Home Care,Detergents,Harpic,No,Supplier C
+PROD10410,Vim Detergents Item,Home Care,Detergents,Vim,No,Supplier C
+PROD10411,Lizol Detergents Item,Home Care,Detergents,Lizol,No,Supplier B
+PROD10412,Lizol Detergents Item,Home Care,Detergents,Lizol,No,Supplier C
+PROD10413,Vim Detergents Item,Home Care,Detergents,Vim,No,Supplier C
+PROD10414,Vim Detergents Item,Home Care,Detergents,Vim,No,Supplier A
+PROD10415,Lizol Detergents Item,Home Care,Detergents,Lizol,No,Supplier D
+PROD10416,Harpic Detergents Item,Home Care,Detergents,Harpic,No,Supplier A
+PROD10417,Surf Excel Floor Cleaners Item,Home Care,Floor Cleaners,Surf Excel,No,Supplier C
+PROD10418,Vim Floor Cleaners Item,Home Care,Floor Cleaners,Vim,No,Supplier B
+PROD10419,Odonil Floor Cleaners Item,Home Care,Floor Cleaners,Odonil,No,Supplier A
+PROD10420,Harpic Floor Cleaners Item,Home Care,Floor Cleaners,Harpic,No,Supplier A
+PROD10421,Vim Floor Cleaners Item,Home Care,Floor Cleaners,Vim,No,Supplier A
+PROD10422,Vim Floor Cleaners Item,Home Care,Floor Cleaners,Vim,No,Supplier C
+PROD10423,Vim Floor Cleaners Item,Home Care,Floor Cleaners,Vim,No,Supplier C
+PROD10424,Odonil Floor Cleaners Item,Home Care,Floor Cleaners,Odonil,No,Supplier C
+PROD10425,Odonil Floor Cleaners Item,Home Care,Floor Cleaners,Odonil,No,Supplier A
+PROD10426,Odonil Floor Cleaners Item,Home Care,Floor Cleaners,Odonil,No,Supplier C
+PROD10427,Harpic Floor Cleaners Item,Home Care,Floor Cleaners,Harpic,No,Supplier D
+PROD10428,Vim Floor Cleaners Item,Home Care,Floor Cleaners,Vim,No,Supplier A
+PROD10429,Surf Excel Floor Cleaners Item,Home Care,Floor Cleaners,Surf Excel,No,Supplier C
+PROD10430,Lizol Floor Cleaners Item,Home Care,Floor Cleaners,Lizol,No,Supplier C
+PROD10431,Lizol Floor Cleaners Item,Home Care,Floor Cleaners,Lizol,No,Supplier D
+PROD10432,Lizol Floor Cleaners Item,Home Care,Floor Cleaners,Lizol,No,Supplier B
+PROD10433,Vim Floor Cleaners Item,Home Care,Floor Cleaners,Vim,No,Supplier C
+PROD10434,Harpic Floor Cleaners Item,Home Care,Floor Cleaners,Harpic,No,Supplier B
+PROD10435,Surf Excel Floor Cleaners Item,Home Care,Floor Cleaners,Surf Excel,No,Supplier A
+PROD10436,Odonil Floor Cleaners Item,Home Care,Floor Cleaners,Odonil,No,Supplier A
+PROD10437,Odonil Floor Cleaners Item,Home Care,Floor Cleaners,Odonil,No,Supplier A
+PROD10438,Odonil Floor Cleaners Item,Home Care,Floor Cleaners,Odonil,No,Supplier D
+PROD10439,Lizol Floor Cleaners Item,Home Care,Floor Cleaners,Lizol,No,Supplier C
+PROD10440,Vim Floor Cleaners Item,Home Care,Floor Cleaners,Vim,No,Supplier D
+PROD10441,Surf Excel Floor Cleaners Item,Home Care,Floor Cleaners,Surf Excel,No,Supplier C
+PROD10442,Surf Excel Floor Cleaners Item,Home Care,Floor Cleaners,Surf Excel,No,Supplier A
+PROD10443,Harpic Floor Cleaners Item,Home Care,Floor Cleaners,Harpic,No,Supplier A
+PROD10444,Odonil Floor Cleaners Item,Home Care,Floor Cleaners,Odonil,No,Supplier A
+PROD10445,Surf Excel Floor Cleaners Item,Home Care,Floor Cleaners,Surf Excel,No,Supplier D
+PROD10446,Surf Excel Floor Cleaners Item,Home Care,Floor Cleaners,Surf Excel,No,Supplier D
+PROD10447,Harpic Floor Cleaners Item,Home Care,Floor Cleaners,Harpic,No,Supplier B
+PROD10448,Vim Floor Cleaners Item,Home Care,Floor Cleaners,Vim,No,Supplier A
+PROD10449,Harpic Floor Cleaners Item,Home Care,Floor Cleaners,Harpic,No,Supplier B
+PROD10450,Surf Excel Floor Cleaners Item,Home Care,Floor Cleaners,Surf Excel,No,Supplier B
+PROD10451,Vim Floor Cleaners Item,Home Care,Floor Cleaners,Vim,No,Supplier D
+PROD10452,Harpic Floor Cleaners Item,Home Care,Floor Cleaners,Harpic,No,Supplier C
+PROD10453,Odonil Floor Cleaners Item,Home Care,Floor Cleaners,Odonil,No,Supplier C
+PROD10454,Surf Excel Floor Cleaners Item,Home Care,Floor Cleaners,Surf Excel,No,Supplier D
+PROD10455,Lizol Floor Cleaners Item,Home Care,Floor Cleaners,Lizol,No,Supplier C
+PROD10456,Lizol Floor Cleaners Item,Home Care,Floor Cleaners,Lizol,No,Supplier A
+PROD10457,Lizol Floor Cleaners Item,Home Care,Floor Cleaners,Lizol,No,Supplier B
+PROD10458,Surf Excel Floor Cleaners Item,Home Care,Floor Cleaners,Surf Excel,No,Supplier D
+PROD10459,Lizol Floor Cleaners Item,Home Care,Floor Cleaners,Lizol,No,Supplier D
+PROD10460,Harpic Floor Cleaners Item,Home Care,Floor Cleaners,Harpic,No,Supplier C
+PROD10461,Lizol Floor Cleaners Item,Home Care,Floor Cleaners,Lizol,No,Supplier C
+PROD10462,Odonil Utensils Item,Home Care,Utensils,Odonil,No,Supplier A
+PROD10463,Lizol Utensils Item,Home Care,Utensils,Lizol,No,Supplier B
+PROD10464,Lizol Utensils Item,Home Care,Utensils,Lizol,No,Supplier A
+PROD10465,Odonil Utensils Item,Home Care,Utensils,Odonil,No,Supplier D
+PROD10466,Vim Utensils Item,Home Care,Utensils,Vim,No,Supplier B
+PROD10467,Odonil Utensils Item,Home Care,Utensils,Odonil,No,Supplier A
+PROD10468,Harpic Utensils Item,Home Care,Utensils,Harpic,No,Supplier B
+PROD10469,Odonil Utensils Item,Home Care,Utensils,Odonil,No,Supplier A
+PROD10470,Harpic Utensils Item,Home Care,Utensils,Harpic,No,Supplier D
+PROD10471,Odonil Utensils Item,Home Care,Utensils,Odonil,No,Supplier A
+PROD10472,Harpic Utensils Item,Home Care,Utensils,Harpic,No,Supplier C
+PROD10473,Surf Excel Utensils Item,Home Care,Utensils,Surf Excel,No,Supplier B
+PROD10474,Harpic Utensils Item,Home Care,Utensils,Harpic,No,Supplier C
+PROD10475,Surf Excel Utensils Item,Home Care,Utensils,Surf Excel,No,Supplier A
+PROD10476,Harpic Utensils Item,Home Care,Utensils,Harpic,No,Supplier A
+PROD10477,Lizol Utensils Item,Home Care,Utensils,Lizol,No,Supplier B
+PROD10478,Surf Excel Utensils Item,Home Care,Utensils,Surf Excel,No,Supplier D
+PROD10479,Vim Utensils Item,Home Care,Utensils,Vim,No,Supplier C
+PROD10480,Lizol Utensils Item,Home Care,Utensils,Lizol,No,Supplier C
+PROD10481,Vim Utensils Item,Home Care,Utensils,Vim,No,Supplier A
+PROD10482,Harpic Utensils Item,Home Care,Utensils,Harpic,No,Supplier A
+PROD10483,Lizol Utensils Item,Home Care,Utensils,Lizol,No,Supplier D
+PROD10484,Harpic Utensils Item,Home Care,Utensils,Harpic,No,Supplier B
+PROD10485,Vim Utensils Item,Home Care,Utensils,Vim,No,Supplier D
+PROD10486,Surf Excel Utensils Item,Home Care,Utensils,Surf Excel,No,Supplier D
+PROD10487,Lizol Utensils Item,Home Care,Utensils,Lizol,No,Supplier A
+PROD10488,Vim Utensils Item,Home Care,Utensils,Vim,No,Supplier A
+PROD10489,Odonil Utensils Item,Home Care,Utensils,Odonil,No,Supplier C
+PROD10490,Harpic Utensils Item,Home Care,Utensils,Harpic,No,Supplier C
+PROD10491,Lizol Utensils Item,Home Care,Utensils,Lizol,No,Supplier C
+PROD10492,Lizol Utensils Item,Home Care,Utensils,Lizol,No,Supplier B
+PROD10493,Vim Utensils Item,Home Care,Utensils,Vim,No,Supplier B
+PROD10494,Vim Utensils Item,Home Care,Utensils,Vim,No,Supplier D
+PROD10495,Surf Excel Utensils Item,Home Care,Utensils,Surf Excel,No,Supplier B
+PROD10496,Lizol Utensils Item,Home Care,Utensils,Lizol,No,Supplier A
+PROD10497,Vim Utensils Item,Home Care,Utensils,Vim,No,Supplier A
+PROD10498,Lizol Utensils Item,Home Care,Utensils,Lizol,No,Supplier D
+PROD10499,Vim Utensils Item,Home Care,Utensils,Vim,No,Supplier C
+PROD10500,Surf Excel Air Fresheners Item,Home Care,Air Fresheners,Surf Excel,No,Supplier D
+PROD10501,Lizol Air Fresheners Item,Home Care,Air Fresheners,Lizol,No,Supplier B
+PROD10502,Vim Air Fresheners Item,Home Care,Air Fresheners,Vim,No,Supplier A
+PROD10503,Lizol Air Fresheners Item,Home Care,Air Fresheners,Lizol,No,Supplier D
+PROD10504,Vim Air Fresheners Item,Home Care,Air Fresheners,Vim,No,Supplier A
+PROD10505,Odonil Air Fresheners Item,Home Care,Air Fresheners,Odonil,No,Supplier A
+PROD10506,Lizol Air Fresheners Item,Home Care,Air Fresheners,Lizol,No,Supplier A
+PROD10507,Odonil Air Fresheners Item,Home Care,Air Fresheners,Odonil,No,Supplier C
+PROD10508,Harpic Air Fresheners Item,Home Care,Air Fresheners,Harpic,No,Supplier C
+PROD10509,Lizol Air Fresheners Item,Home Care,Air Fresheners,Lizol,No,Supplier B
+PROD10510,Odonil Air Fresheners Item,Home Care,Air Fresheners,Odonil,No,Supplier C
+PROD10511,Harpic Air Fresheners Item,Home Care,Air Fresheners,Harpic,No,Supplier B
+PROD10512,Harpic Air Fresheners Item,Home Care,Air Fresheners,Harpic,No,Supplier D
+PROD10513,Lizol Air Fresheners Item,Home Care,Air Fresheners,Lizol,No,Supplier D
+PROD10514,Vim Air Fresheners Item,Home Care,Air Fresheners,Vim,No,Supplier B
+PROD10515,Odonil Air Fresheners Item,Home Care,Air Fresheners,Odonil,No,Supplier D
+PROD10516,Lizol Air Fresheners Item,Home Care,Air Fresheners,Lizol,No,Supplier A
+PROD10517,Odonil Air Fresheners Item,Home Care,Air Fresheners,Odonil,No,Supplier D
+PROD10518,Vim Air Fresheners Item,Home Care,Air Fresheners,Vim,No,Supplier C
+PROD10519,Odonil Air Fresheners Item,Home Care,Air Fresheners,Odonil,No,Supplier A
+PROD10520,Lizol Air Fresheners Item,Home Care,Air Fresheners,Lizol,No,Supplier B
+PROD10521,Surf Excel Air Fresheners Item,Home Care,Air Fresheners,Surf Excel,No,Supplier C
+PROD10522,Vim Air Fresheners Item,Home Care,Air Fresheners,Vim,No,Supplier B
+PROD10523,Vim Air Fresheners Item,Home Care,Air Fresheners,Vim,No,Supplier B
+PROD10524,Surf Excel Air Fresheners Item,Home Care,Air Fresheners,Surf Excel,No,Supplier B
+PROD10525,Lizol Air Fresheners Item,Home Care,Air Fresheners,Lizol,No,Supplier B
+PROD10526,Odonil Air Fresheners Item,Home Care,Air Fresheners,Odonil,No,Supplier B
+PROD10527,Surf Excel Air Fresheners Item,Home Care,Air Fresheners,Surf Excel,No,Supplier B
+PROD10528,Lizol Air Fresheners Item,Home Care,Air Fresheners,Lizol,No,Supplier C
+PROD10529,Vim Air Fresheners Item,Home Care,Air Fresheners,Vim,No,Supplier C
+PROD10530,Vim Air Fresheners Item,Home Care,Air Fresheners,Vim,No,Supplier A
+PROD10531,Harpic Air Fresheners Item,Home Care,Air Fresheners,Harpic,No,Supplier D
+PROD10532,Surf Excel Air Fresheners Item,Home Care,Air Fresheners,Surf Excel,No,Supplier C
+PROD10533,Lizol Air Fresheners Item,Home Care,Air Fresheners,Lizol,No,Supplier A
+PROD10534,Vim Air Fresheners Item,Home Care,Air Fresheners,Vim,No,Supplier B
+PROD10535,Lizol Air Fresheners Item,Home Care,Air Fresheners,Lizol,No,Supplier D
+PROD10536,Surf Excel Air Fresheners Item,Home Care,Air Fresheners,Surf Excel,No,Supplier A
+PROD10537,Harpic Air Fresheners Item,Home Care,Air Fresheners,Harpic,No,Supplier B
+PROD10538,Harpic Air Fresheners Item,Home Care,Air Fresheners,Harpic,No,Supplier C
+PROD10539,Surf Excel Air Fresheners Item,Home Care,Air Fresheners,Surf Excel,No,Supplier A
+PROD10540,Lizol Air Fresheners Item,Home Care,Air Fresheners,Lizol,No,Supplier A
+PROD10541,Odonil Air Fresheners Item,Home Care,Air Fresheners,Odonil,No,Supplier C
+PROD10542,Harpic Air Fresheners Item,Home Care,Air Fresheners,Harpic,No,Supplier D
+PROD10543,Harpic Air Fresheners Item,Home Care,Air Fresheners,Harpic,No,Supplier D
+PROD10544,Harpic Air Fresheners Item,Home Care,Air Fresheners,Harpic,No,Supplier A
+PROD10545,Vim Air Fresheners Item,Home Care,Air Fresheners,Vim,No,Supplier B
+PROD10546,Surf Excel Air Fresheners Item,Home Care,Air Fresheners,Surf Excel,No,Supplier A
+PROD10547,Vim Air Fresheners Item,Home Care,Air Fresheners,Vim,No,Supplier A
+PROD10548,Mi Mobile Accessories Item,Electronics,Mobile Accessories,Mi,No,Supplier D
+PROD10549,Havells Mobile Accessories Item,Electronics,Mobile Accessories,Havells,No,Supplier A
+PROD10550,Havells Mobile Accessories Item,Electronics,Mobile Accessories,Havells,No,Supplier A
+PROD10551,Samsung Mobile Accessories Item,Electronics,Mobile Accessories,Samsung,No,Supplier D
+PROD10552,Mi Mobile Accessories Item,Electronics,Mobile Accessories,Mi,No,Supplier A
+PROD10553,Bajaj Mobile Accessories Item,Electronics,Mobile Accessories,Bajaj,No,Supplier A
+PROD10554,Mi Mobile Accessories Item,Electronics,Mobile Accessories,Mi,No,Supplier C
+PROD10555,Havells Mobile Accessories Item,Electronics,Mobile Accessories,Havells,No,Supplier C
+PROD10556,Prestige Mobile Accessories Item,Electronics,Mobile Accessories,Prestige,No,Supplier B
+PROD10557,Samsung Mobile Accessories Item,Electronics,Mobile Accessories,Samsung,No,Supplier C
+PROD10558,Bajaj Mobile Accessories Item,Electronics,Mobile Accessories,Bajaj,No,Supplier B
+PROD10559,Bajaj Mobile Accessories Item,Electronics,Mobile Accessories,Bajaj,No,Supplier A
+PROD10560,Prestige Mobile Accessories Item,Electronics,Mobile Accessories,Prestige,No,Supplier C
+PROD10561,Philips Mobile Accessories Item,Electronics,Mobile Accessories,Philips,No,Supplier A
+PROD10562,Philips Mobile Accessories Item,Electronics,Mobile Accessories,Philips,No,Supplier A
+PROD10563,Havells Mobile Accessories Item,Electronics,Mobile Accessories,Havells,No,Supplier D
+PROD10564,Samsung Mobile Accessories Item,Electronics,Mobile Accessories,Samsung,No,Supplier C
+PROD10565,Philips Mobile Accessories Item,Electronics,Mobile Accessories,Philips,No,Supplier B
+PROD10566,Mi Mobile Accessories Item,Electronics,Mobile Accessories,Mi,No,Supplier B
+PROD10567,Bajaj Mobile Accessories Item,Electronics,Mobile Accessories,Bajaj,No,Supplier A
+PROD10568,Samsung Mobile Accessories Item,Electronics,Mobile Accessories,Samsung,No,Supplier A
+PROD10569,Bajaj Mobile Accessories Item,Electronics,Mobile Accessories,Bajaj,No,Supplier C
+PROD10570,Mi Mobile Accessories Item,Electronics,Mobile Accessories,Mi,No,Supplier B
+PROD10571,Philips Mobile Accessories Item,Electronics,Mobile Accessories,Philips,No,Supplier C
+PROD10572,Bajaj Mobile Accessories Item,Electronics,Mobile Accessories,Bajaj,No,Supplier D
+PROD10573,Samsung Mobile Accessories Item,Electronics,Mobile Accessories,Samsung,No,Supplier B
+PROD10574,Havells Mobile Accessories Item,Electronics,Mobile Accessories,Havells,No,Supplier C
+PROD10575,Samsung Mobile Accessories Item,Electronics,Mobile Accessories,Samsung,No,Supplier C
+PROD10576,Samsung Mobile Accessories Item,Electronics,Mobile Accessories,Samsung,No,Supplier D
+PROD10577,Samsung Mobile Accessories Item,Electronics,Mobile Accessories,Samsung,No,Supplier C
+PROD10578,Philips Mobile Accessories Item,Electronics,Mobile Accessories,Philips,No,Supplier B
+PROD10579,Prestige Mobile Accessories Item,Electronics,Mobile Accessories,Prestige,No,Supplier A
+PROD10580,Bajaj Mobile Accessories Item,Electronics,Mobile Accessories,Bajaj,No,Supplier C
+PROD10581,Mi Mobile Accessories Item,Electronics,Mobile Accessories,Mi,No,Supplier D
+PROD10582,Prestige Mobile Accessories Item,Electronics,Mobile Accessories,Prestige,No,Supplier A
+PROD10583,Philips Kitchen Appliances Item,Electronics,Kitchen Appliances,Philips,No,Supplier B
+PROD10584,Philips Kitchen Appliances Item,Electronics,Kitchen Appliances,Philips,No,Supplier C
+PROD10585,Prestige Kitchen Appliances Item,Electronics,Kitchen Appliances,Prestige,No,Supplier C
+PROD10586,Bajaj Kitchen Appliances Item,Electronics,Kitchen Appliances,Bajaj,No,Supplier D
+PROD10587,Bajaj Kitchen Appliances Item,Electronics,Kitchen Appliances,Bajaj,No,Supplier B
+PROD10588,Bajaj Kitchen Appliances Item,Electronics,Kitchen Appliances,Bajaj,No,Supplier D
+PROD10589,Prestige Kitchen Appliances Item,Electronics,Kitchen Appliances,Prestige,No,Supplier B
+PROD10590,Samsung Kitchen Appliances Item,Electronics,Kitchen Appliances,Samsung,No,Supplier A
+PROD10591,Prestige Kitchen Appliances Item,Electronics,Kitchen Appliances,Prestige,No,Supplier C
+PROD10592,Mi Kitchen Appliances Item,Electronics,Kitchen Appliances,Mi,No,Supplier D
+PROD10593,Prestige Kitchen Appliances Item,Electronics,Kitchen Appliances,Prestige,No,Supplier A
+PROD10594,Philips Kitchen Appliances Item,Electronics,Kitchen Appliances,Philips,No,Supplier A
+PROD10595,Havells Kitchen Appliances Item,Electronics,Kitchen Appliances,Havells,No,Supplier B
+PROD10596,Bajaj Kitchen Appliances Item,Electronics,Kitchen Appliances,Bajaj,No,Supplier C
+PROD10597,Philips Kitchen Appliances Item,Electronics,Kitchen Appliances,Philips,No,Supplier C
+PROD10598,Prestige Kitchen Appliances Item,Electronics,Kitchen Appliances,Prestige,No,Supplier D
+PROD10599,Prestige Kitchen Appliances Item,Electronics,Kitchen Appliances,Prestige,No,Supplier C
+PROD10600,Philips Kitchen Appliances Item,Electronics,Kitchen Appliances,Philips,No,Supplier C
+PROD10601,Philips Kitchen Appliances Item,Electronics,Kitchen Appliances,Philips,No,Supplier C
+PROD10602,Mi Kitchen Appliances Item,Electronics,Kitchen Appliances,Mi,No,Supplier D
+PROD10603,Mi Kitchen Appliances Item,Electronics,Kitchen Appliances,Mi,No,Supplier B
+PROD10604,Mi Kitchen Appliances Item,Electronics,Kitchen Appliances,Mi,No,Supplier C
+PROD10605,Philips Kitchen Appliances Item,Electronics,Kitchen Appliances,Philips,No,Supplier A
+PROD10606,Havells Kitchen Appliances Item,Electronics,Kitchen Appliances,Havells,No,Supplier A
+PROD10607,Mi Kitchen Appliances Item,Electronics,Kitchen Appliances,Mi,No,Supplier C
+PROD10608,Prestige Kitchen Appliances Item,Electronics,Kitchen Appliances,Prestige,No,Supplier B
+PROD10609,Havells Kitchen Appliances Item,Electronics,Kitchen Appliances,Havells,No,Supplier A
+PROD10610,Prestige Kitchen Appliances Item,Electronics,Kitchen Appliances,Prestige,No,Supplier D
+PROD10611,Philips Kitchen Appliances Item,Electronics,Kitchen Appliances,Philips,No,Supplier A
+PROD10612,Philips Kitchen Appliances Item,Electronics,Kitchen Appliances,Philips,No,Supplier D
+PROD10613,Philips Kitchen Appliances Item,Electronics,Kitchen Appliances,Philips,No,Supplier C
+PROD10614,Samsung Kitchen Appliances Item,Electronics,Kitchen Appliances,Samsung,No,Supplier C
+PROD10615,Philips Kitchen Appliances Item,Electronics,Kitchen Appliances,Philips,No,Supplier A
+PROD10616,Bajaj Kitchen Appliances Item,Electronics,Kitchen Appliances,Bajaj,No,Supplier B
+PROD10617,Samsung Kitchen Appliances Item,Electronics,Kitchen Appliances,Samsung,No,Supplier D
+PROD10618,Mi Kitchen Appliances Item,Electronics,Kitchen Appliances,Mi,No,Supplier A
+PROD10619,Prestige Kitchen Appliances Item,Electronics,Kitchen Appliances,Prestige,No,Supplier A
+PROD10620,Prestige Kitchen Appliances Item,Electronics,Kitchen Appliances,Prestige,No,Supplier D
+PROD10621,Philips Kitchen Appliances Item,Electronics,Kitchen Appliances,Philips,No,Supplier C
+PROD10622,Prestige Kitchen Appliances Item,Electronics,Kitchen Appliances,Prestige,No,Supplier C
+PROD10623,Philips Kitchen Appliances Item,Electronics,Kitchen Appliances,Philips,No,Supplier B
+PROD10624,Havells Kitchen Appliances Item,Electronics,Kitchen Appliances,Havells,No,Supplier A
+PROD10625,Samsung Kitchen Appliances Item,Electronics,Kitchen Appliances,Samsung,No,Supplier D
+PROD10626,Samsung Home Appliances Item,Electronics,Home Appliances,Samsung,No,Supplier C
+PROD10627,Havells Home Appliances Item,Electronics,Home Appliances,Havells,No,Supplier B
+PROD10628,Mi Home Appliances Item,Electronics,Home Appliances,Mi,No,Supplier C
+PROD10629,Philips Home Appliances Item,Electronics,Home Appliances,Philips,No,Supplier C
+PROD10630,Philips Home Appliances Item,Electronics,Home Appliances,Philips,No,Supplier D
+PROD10631,Philips Home Appliances Item,Electronics,Home Appliances,Philips,No,Supplier D
+PROD10632,Bajaj Home Appliances Item,Electronics,Home Appliances,Bajaj,No,Supplier A
+PROD10633,Samsung Home Appliances Item,Electronics,Home Appliances,Samsung,No,Supplier B
+PROD10634,Mi Home Appliances Item,Electronics,Home Appliances,Mi,No,Supplier A
+PROD10635,Prestige Home Appliances Item,Electronics,Home Appliances,Prestige,No,Supplier D
+PROD10636,Bajaj Home Appliances Item,Electronics,Home Appliances,Bajaj,No,Supplier C
+PROD10637,Samsung Home Appliances Item,Electronics,Home Appliances,Samsung,No,Supplier B
+PROD10638,Mi Home Appliances Item,Electronics,Home Appliances,Mi,No,Supplier A
+PROD10639,Philips Home Appliances Item,Electronics,Home Appliances,Philips,No,Supplier C
+PROD10640,Philips Home Appliances Item,Electronics,Home Appliances,Philips,No,Supplier B
+PROD10641,Samsung Home Appliances Item,Electronics,Home Appliances,Samsung,No,Supplier B
+PROD10642,Samsung Home Appliances Item,Electronics,Home Appliances,Samsung,No,Supplier D
+PROD10643,Bajaj Home Appliances Item,Electronics,Home Appliances,Bajaj,No,Supplier D
+PROD10644,Mi Home Appliances Item,Electronics,Home Appliances,Mi,No,Supplier D
+PROD10645,Havells Home Appliances Item,Electronics,Home Appliances,Havells,No,Supplier D
+PROD10646,Mi Home Appliances Item,Electronics,Home Appliances,Mi,No,Supplier A
+PROD10647,Prestige Home Appliances Item,Electronics,Home Appliances,Prestige,No,Supplier C
+PROD10648,Prestige Home Appliances Item,Electronics,Home Appliances,Prestige,No,Supplier C
+PROD10649,Prestige Home Appliances Item,Electronics,Home Appliances,Prestige,No,Supplier D
+PROD10650,Mi Home Appliances Item,Electronics,Home Appliances,Mi,No,Supplier C
+PROD10651,Prestige Home Appliances Item,Electronics,Home Appliances,Prestige,No,Supplier D
+PROD10652,Havells Home Appliances Item,Electronics,Home Appliances,Havells,No,Supplier A
+PROD10653,Bajaj Home Appliances Item,Electronics,Home Appliances,Bajaj,No,Supplier D
+PROD10654,Philips Home Appliances Item,Electronics,Home Appliances,Philips,No,Supplier C
+PROD10655,Havells Home Appliances Item,Electronics,Home Appliances,Havells,No,Supplier B
+PROD10656,Philips Home Appliances Item,Electronics,Home Appliances,Philips,No,Supplier B
+PROD10657,Prestige Home Appliances Item,Electronics,Home Appliances,Prestige,No,Supplier A
+PROD10658,Bajaj Home Appliances Item,Electronics,Home Appliances,Bajaj,No,Supplier D
+PROD10659,Havells Home Appliances Item,Electronics,Home Appliances,Havells,No,Supplier C
+PROD10660,Bajaj Home Appliances Item,Electronics,Home Appliances,Bajaj,No,Supplier B
+PROD10661,Philips Home Appliances Item,Electronics,Home Appliances,Philips,No,Supplier A
+PROD10662,Prestige Home Appliances Item,Electronics,Home Appliances,Prestige,No,Supplier A
+PROD10663,Bajaj Home Appliances Item,Electronics,Home Appliances,Bajaj,No,Supplier D
+PROD10664,Philips Home Appliances Item,Electronics,Home Appliances,Philips,No,Supplier A
+PROD10665,Samsung Home Appliances Item,Electronics,Home Appliances,Samsung,No,Supplier B
+PROD10666,Bajaj Home Appliances Item,Electronics,Home Appliances,Bajaj,No,Supplier B
+PROD10667,Prestige Home Appliances Item,Electronics,Home Appliances,Prestige,No,Supplier C
+PROD10668,Prestige Home Appliances Item,Electronics,Home Appliances,Prestige,No,Supplier D
+PROD10669,Samsung Home Appliances Item,Electronics,Home Appliances,Samsung,No,Supplier A
+PROD10670,Samsung Home Appliances Item,Electronics,Home Appliances,Samsung,No,Supplier A
+PROD10671,Havells Home Appliances Item,Electronics,Home Appliances,Havells,No,Supplier D
+PROD10672,Samsung Home Appliances Item,Electronics,Home Appliances,Samsung,No,Supplier D
+PROD10673,Bata Mens Wear Item,Fashion,Mens Wear,Bata,No,Supplier D
+PROD10674,Manyavar Mens Wear Item,Fashion,Mens Wear,Manyavar,No,Supplier B
+PROD10675,Allen Solly Mens Wear Item,Fashion,Mens Wear,Allen Solly,No,Supplier B
+PROD10676,Allen Solly Mens Wear Item,Fashion,Mens Wear,Allen Solly,No,Supplier C
+PROD10677,Peter England Mens Wear Item,Fashion,Mens Wear,Peter England,No,Supplier B
+PROD10678,Van Heusen Mens Wear Item,Fashion,Mens Wear,Van Heusen,No,Supplier C
+PROD10679,Peter England Mens Wear Item,Fashion,Mens Wear,Peter England,No,Supplier C
+PROD10680,Manyavar Mens Wear Item,Fashion,Mens Wear,Manyavar,No,Supplier C
+PROD10681,Manyavar Mens Wear Item,Fashion,Mens Wear,Manyavar,No,Supplier B
+PROD10682,Peter England Mens Wear Item,Fashion,Mens Wear,Peter England,No,Supplier B
+PROD10683,Van Heusen Mens Wear Item,Fashion,Mens Wear,Van Heusen,No,Supplier D
+PROD10684,Bata Mens Wear Item,Fashion,Mens Wear,Bata,No,Supplier B
+PROD10685,Van Heusen Mens Wear Item,Fashion,Mens Wear,Van Heusen,No,Supplier A
+PROD10686,Bata Mens Wear Item,Fashion,Mens Wear,Bata,No,Supplier D
+PROD10687,Allen Solly Mens Wear Item,Fashion,Mens Wear,Allen Solly,No,Supplier B
+PROD10688,Van Heusen Mens Wear Item,Fashion,Mens Wear,Van Heusen,No,Supplier B
+PROD10689,Allen Solly Mens Wear Item,Fashion,Mens Wear,Allen Solly,No,Supplier C
+PROD10690,Bata Mens Wear Item,Fashion,Mens Wear,Bata,No,Supplier C
+PROD10691,Bata Mens Wear Item,Fashion,Mens Wear,Bata,No,Supplier C
+PROD10692,Bata Mens Wear Item,Fashion,Mens Wear,Bata,No,Supplier D
+PROD10693,Manyavar Mens Wear Item,Fashion,Mens Wear,Manyavar,No,Supplier C
+PROD10694,Van Heusen Mens Wear Item,Fashion,Mens Wear,Van Heusen,No,Supplier A
+PROD10695,Manyavar Mens Wear Item,Fashion,Mens Wear,Manyavar,No,Supplier D
+PROD10696,Manyavar Mens Wear Item,Fashion,Mens Wear,Manyavar,No,Supplier D
+PROD10697,Bata Mens Wear Item,Fashion,Mens Wear,Bata,No,Supplier C
+PROD10698,Manyavar Mens Wear Item,Fashion,Mens Wear,Manyavar,No,Supplier B
+PROD10699,Peter England Mens Wear Item,Fashion,Mens Wear,Peter England,No,Supplier D
+PROD10700,Manyavar Mens Wear Item,Fashion,Mens Wear,Manyavar,No,Supplier B
+PROD10701,Manyavar Mens Wear Item,Fashion,Mens Wear,Manyavar,No,Supplier B
+PROD10702,Bata Mens Wear Item,Fashion,Mens Wear,Bata,No,Supplier B
+PROD10703,Manyavar Mens Wear Item,Fashion,Mens Wear,Manyavar,No,Supplier A
+PROD10704,Van Heusen Mens Wear Item,Fashion,Mens Wear,Van Heusen,No,Supplier D
+PROD10705,Van Heusen Mens Wear Item,Fashion,Mens Wear,Van Heusen,No,Supplier A
+PROD10706,Van Heusen Mens Wear Item,Fashion,Mens Wear,Van Heusen,No,Supplier B
+PROD10707,Van Heusen Womens Wear Item,Fashion,Womens Wear,Van Heusen,No,Supplier C
+PROD10708,Van Heusen Womens Wear Item,Fashion,Womens Wear,Van Heusen,No,Supplier C
+PROD10709,Manyavar Womens Wear Item,Fashion,Womens Wear,Manyavar,No,Supplier B
+PROD10710,Van Heusen Womens Wear Item,Fashion,Womens Wear,Van Heusen,No,Supplier A
+PROD10711,Allen Solly Womens Wear Item,Fashion,Womens Wear,Allen Solly,No,Supplier D
+PROD10712,Allen Solly Womens Wear Item,Fashion,Womens Wear,Allen Solly,No,Supplier B
+PROD10713,Van Heusen Womens Wear Item,Fashion,Womens Wear,Van Heusen,No,Supplier C
+PROD10714,Peter England Womens Wear Item,Fashion,Womens Wear,Peter England,No,Supplier A
+PROD10715,Bata Womens Wear Item,Fashion,Womens Wear,Bata,No,Supplier B
+PROD10716,Allen Solly Womens Wear Item,Fashion,Womens Wear,Allen Solly,No,Supplier A
+PROD10717,Allen Solly Womens Wear Item,Fashion,Womens Wear,Allen Solly,No,Supplier C
+PROD10718,Manyavar Womens Wear Item,Fashion,Womens Wear,Manyavar,No,Supplier B
+PROD10719,Peter England Womens Wear Item,Fashion,Womens Wear,Peter England,No,Supplier C
+PROD10720,Bata Womens Wear Item,Fashion,Womens Wear,Bata,No,Supplier C
+PROD10721,Bata Womens Wear Item,Fashion,Womens Wear,Bata,No,Supplier B
+PROD10722,Peter England Womens Wear Item,Fashion,Womens Wear,Peter England,No,Supplier A
+PROD10723,Bata Womens Wear Item,Fashion,Womens Wear,Bata,No,Supplier C
+PROD10724,Bata Womens Wear Item,Fashion,Womens Wear,Bata,No,Supplier B
+PROD10725,Allen Solly Womens Wear Item,Fashion,Womens Wear,Allen Solly,No,Supplier D
+PROD10726,Peter England Womens Wear Item,Fashion,Womens Wear,Peter England,No,Supplier A
+PROD10727,Manyavar Womens Wear Item,Fashion,Womens Wear,Manyavar,No,Supplier C
+PROD10728,Bata Womens Wear Item,Fashion,Womens Wear,Bata,No,Supplier B
+PROD10729,Bata Womens Wear Item,Fashion,Womens Wear,Bata,No,Supplier C
+PROD10730,Allen Solly Womens Wear Item,Fashion,Womens Wear,Allen Solly,No,Supplier B
+PROD10731,Van Heusen Womens Wear Item,Fashion,Womens Wear,Van Heusen,No,Supplier D
+PROD10732,Manyavar Womens Wear Item,Fashion,Womens Wear,Manyavar,No,Supplier C
+PROD10733,Manyavar Womens Wear Item,Fashion,Womens Wear,Manyavar,No,Supplier D
+PROD10734,Bata Womens Wear Item,Fashion,Womens Wear,Bata,No,Supplier C
+PROD10735,Van Heusen Womens Wear Item,Fashion,Womens Wear,Van Heusen,No,Supplier D
+PROD10736,Bata Womens Wear Item,Fashion,Womens Wear,Bata,No,Supplier C
+PROD10737,Allen Solly Womens Wear Item,Fashion,Womens Wear,Allen Solly,No,Supplier A
+PROD10738,Manyavar Womens Wear Item,Fashion,Womens Wear,Manyavar,No,Supplier D
+PROD10739,Manyavar Womens Wear Item,Fashion,Womens Wear,Manyavar,No,Supplier A
+PROD10740,Peter England Womens Wear Item,Fashion,Womens Wear,Peter England,No,Supplier D
+PROD10741,Bata Womens Wear Item,Fashion,Womens Wear,Bata,No,Supplier D
+PROD10742,Allen Solly Womens Wear Item,Fashion,Womens Wear,Allen Solly,No,Supplier B
+PROD10743,Van Heusen Womens Wear Item,Fashion,Womens Wear,Van Heusen,No,Supplier D
+PROD10744,Manyavar Womens Wear Item,Fashion,Womens Wear,Manyavar,No,Supplier A
+PROD10745,Bata Womens Wear Item,Fashion,Womens Wear,Bata,No,Supplier C
+PROD10746,Manyavar Womens Wear Item,Fashion,Womens Wear,Manyavar,No,Supplier C
+PROD10747,Allen Solly Womens Wear Item,Fashion,Womens Wear,Allen Solly,No,Supplier D
+PROD10748,Allen Solly Womens Wear Item,Fashion,Womens Wear,Allen Solly,No,Supplier B
+PROD10749,Manyavar Womens Wear Item,Fashion,Womens Wear,Manyavar,No,Supplier C
+PROD10750,Bata Womens Wear Item,Fashion,Womens Wear,Bata,No,Supplier D
+PROD10751,Manyavar Womens Wear Item,Fashion,Womens Wear,Manyavar,No,Supplier B
+PROD10752,Peter England Womens Wear Item,Fashion,Womens Wear,Peter England,No,Supplier B
+PROD10753,Manyavar Kids Wear Item,Fashion,Kids Wear,Manyavar,No,Supplier A
+PROD10754,Bata Kids Wear Item,Fashion,Kids Wear,Bata,No,Supplier A
+PROD10755,Manyavar Kids Wear Item,Fashion,Kids Wear,Manyavar,No,Supplier B
+PROD10756,Peter England Kids Wear Item,Fashion,Kids Wear,Peter England,No,Supplier B
+PROD10757,Bata Kids Wear Item,Fashion,Kids Wear,Bata,No,Supplier D
+PROD10758,Allen Solly Kids Wear Item,Fashion,Kids Wear,Allen Solly,No,Supplier C
+PROD10759,Peter England Kids Wear Item,Fashion,Kids Wear,Peter England,No,Supplier C
+PROD10760,Allen Solly Kids Wear Item,Fashion,Kids Wear,Allen Solly,No,Supplier C
+PROD10761,Manyavar Kids Wear Item,Fashion,Kids Wear,Manyavar,No,Supplier A
+PROD10762,Peter England Kids Wear Item,Fashion,Kids Wear,Peter England,No,Supplier C
+PROD10763,Van Heusen Kids Wear Item,Fashion,Kids Wear,Van Heusen,No,Supplier C
+PROD10764,Bata Kids Wear Item,Fashion,Kids Wear,Bata,No,Supplier B
+PROD10765,Van Heusen Kids Wear Item,Fashion,Kids Wear,Van Heusen,No,Supplier D
+PROD10766,Manyavar Kids Wear Item,Fashion,Kids Wear,Manyavar,No,Supplier C
+PROD10767,Bata Kids Wear Item,Fashion,Kids Wear,Bata,No,Supplier D
+PROD10768,Van Heusen Kids Wear Item,Fashion,Kids Wear,Van Heusen,No,Supplier C
+PROD10769,Bata Kids Wear Item,Fashion,Kids Wear,Bata,No,Supplier A
+PROD10770,Van Heusen Kids Wear Item,Fashion,Kids Wear,Van Heusen,No,Supplier B
+PROD10771,Manyavar Kids Wear Item,Fashion,Kids Wear,Manyavar,No,Supplier D
+PROD10772,Van Heusen Kids Wear Item,Fashion,Kids Wear,Van Heusen,No,Supplier A
+PROD10773,Peter England Kids Wear Item,Fashion,Kids Wear,Peter England,No,Supplier C
+PROD10774,Bata Kids Wear Item,Fashion,Kids Wear,Bata,No,Supplier D
+PROD10775,Manyavar Kids Wear Item,Fashion,Kids Wear,Manyavar,No,Supplier A
+PROD10776,Bata Kids Wear Item,Fashion,Kids Wear,Bata,No,Supplier A
+PROD10777,Peter England Kids Wear Item,Fashion,Kids Wear,Peter England,No,Supplier D
+PROD10778,Van Heusen Kids Wear Item,Fashion,Kids Wear,Van Heusen,No,Supplier C
+PROD10779,Van Heusen Kids Wear Item,Fashion,Kids Wear,Van Heusen,No,Supplier D
+PROD10780,Manyavar Kids Wear Item,Fashion,Kids Wear,Manyavar,No,Supplier C
+PROD10781,Van Heusen Kids Wear Item,Fashion,Kids Wear,Van Heusen,No,Supplier C
+PROD10782,Manyavar Kids Wear Item,Fashion,Kids Wear,Manyavar,No,Supplier D
+PROD10783,Manyavar Kids Wear Item,Fashion,Kids Wear,Manyavar,No,Supplier D
+PROD10784,Allen Solly Kids Wear Item,Fashion,Kids Wear,Allen Solly,No,Supplier C
+PROD10785,Van Heusen Kids Wear Item,Fashion,Kids Wear,Van Heusen,No,Supplier A
+PROD10786,Manyavar Kids Wear Item,Fashion,Kids Wear,Manyavar,No,Supplier B
+PROD10787,Manyavar Kids Wear Item,Fashion,Kids Wear,Manyavar,No,Supplier C
+PROD10788,Van Heusen Kids Wear Item,Fashion,Kids Wear,Van Heusen,No,Supplier C
+PROD10789,Bata Kids Wear Item,Fashion,Kids Wear,Bata,No,Supplier C
+PROD10790,Van Heusen Kids Wear Item,Fashion,Kids Wear,Van Heusen,No,Supplier D
+PROD10791,Manyavar Footwear Item,Fashion,Footwear,Manyavar,No,Supplier B
+PROD10792,Peter England Footwear Item,Fashion,Footwear,Peter England,No,Supplier D
+PROD10793,Manyavar Footwear Item,Fashion,Footwear,Manyavar,No,Supplier A
+PROD10794,Bata Footwear Item,Fashion,Footwear,Bata,No,Supplier B
+PROD10795,Manyavar Footwear Item,Fashion,Footwear,Manyavar,No,Supplier D
+PROD10796,Allen Solly Footwear Item,Fashion,Footwear,Allen Solly,No,Supplier D
+PROD10797,Bata Footwear Item,Fashion,Footwear,Bata,No,Supplier B
+PROD10798,Van Heusen Footwear Item,Fashion,Footwear,Van Heusen,No,Supplier B
+PROD10799,Manyavar Footwear Item,Fashion,Footwear,Manyavar,No,Supplier A
+PROD10800,Peter England Footwear Item,Fashion,Footwear,Peter England,No,Supplier D
+PROD10801,Van Heusen Footwear Item,Fashion,Footwear,Van Heusen,No,Supplier B
+PROD10802,Van Heusen Footwear Item,Fashion,Footwear,Van Heusen,No,Supplier C
+PROD10803,Allen Solly Footwear Item,Fashion,Footwear,Allen Solly,No,Supplier C
+PROD10804,Bata Footwear Item,Fashion,Footwear,Bata,No,Supplier B
+PROD10805,Peter England Footwear Item,Fashion,Footwear,Peter England,No,Supplier D
+PROD10806,Van Heusen Footwear Item,Fashion,Footwear,Van Heusen,No,Supplier B
+PROD10807,Manyavar Footwear Item,Fashion,Footwear,Manyavar,No,Supplier A
+PROD10808,Allen Solly Footwear Item,Fashion,Footwear,Allen Solly,No,Supplier A
+PROD10809,Bata Footwear Item,Fashion,Footwear,Bata,No,Supplier B
+PROD10810,Allen Solly Footwear Item,Fashion,Footwear,Allen Solly,No,Supplier D
+PROD10811,Allen Solly Footwear Item,Fashion,Footwear,Allen Solly,No,Supplier B
+PROD10812,Allen Solly Footwear Item,Fashion,Footwear,Allen Solly,No,Supplier C
+PROD10813,Allen Solly Footwear Item,Fashion,Footwear,Allen Solly,No,Supplier B
+PROD10814,Peter England Footwear Item,Fashion,Footwear,Peter England,No,Supplier C
+PROD10815,Van Heusen Footwear Item,Fashion,Footwear,Van Heusen,No,Supplier B
+PROD10816,Peter England Footwear Item,Fashion,Footwear,Peter England,No,Supplier A
+PROD10817,Manyavar Footwear Item,Fashion,Footwear,Manyavar,No,Supplier A
+PROD10818,Van Heusen Footwear Item,Fashion,Footwear,Van Heusen,No,Supplier D
+PROD10819,Manyavar Footwear Item,Fashion,Footwear,Manyavar,No,Supplier D
+PROD10820,Allen Solly Footwear Item,Fashion,Footwear,Allen Solly,No,Supplier B
+PROD10821,Allen Solly Footwear Item,Fashion,Footwear,Allen Solly,No,Supplier A
+PROD10822,Peter England Footwear Item,Fashion,Footwear,Peter England,No,Supplier D
+PROD10823,Allen Solly Footwear Item,Fashion,Footwear,Allen Solly,No,Supplier D
+PROD10824,Peter England Footwear Item,Fashion,Footwear,Peter England,No,Supplier C
+PROD10825,Van Heusen Footwear Item,Fashion,Footwear,Van Heusen,No,Supplier A
+PROD10826,Bata Footwear Item,Fashion,Footwear,Bata,No,Supplier A
+PROD10827,Allen Solly Footwear Item,Fashion,Footwear,Allen Solly,No,Supplier D
+PROD10828,Van Heusen Footwear Item,Fashion,Footwear,Van Heusen,No,Supplier D
+PROD10829,Allen Solly Footwear Item,Fashion,Footwear,Allen Solly,No,Supplier D
+PROD10830,Van Heusen Footwear Item,Fashion,Footwear,Van Heusen,No,Supplier D
+PROD10831,Allen Solly Footwear Item,Fashion,Footwear,Allen Solly,No,Supplier B
+PROD10832,Allen Solly Footwear Item,Fashion,Footwear,Allen Solly,No,Supplier D
+PROD10833,Van Heusen Footwear Item,Fashion,Footwear,Van Heusen,No,Supplier C
+PROD10834,Van Heusen Accessories Item,Fashion,Accessories,Van Heusen,No,Supplier D
+PROD10835,Bata Accessories Item,Fashion,Accessories,Bata,No,Supplier B
+PROD10836,Van Heusen Accessories Item,Fashion,Accessories,Van Heusen,No,Supplier B
+PROD10837,Bata Accessories Item,Fashion,Accessories,Bata,No,Supplier A
+PROD10838,Bata Accessories Item,Fashion,Accessories,Bata,No,Supplier C
+PROD10839,Bata Accessories Item,Fashion,Accessories,Bata,No,Supplier A
+PROD10840,Bata Accessories Item,Fashion,Accessories,Bata,No,Supplier D
+PROD10841,Manyavar Accessories Item,Fashion,Accessories,Manyavar,No,Supplier A
+PROD10842,Bata Accessories Item,Fashion,Accessories,Bata,No,Supplier A
+PROD10843,Peter England Accessories Item,Fashion,Accessories,Peter England,No,Supplier D
+PROD10844,Van Heusen Accessories Item,Fashion,Accessories,Van Heusen,No,Supplier A
+PROD10845,Bata Accessories Item,Fashion,Accessories,Bata,No,Supplier C
+PROD10846,Van Heusen Accessories Item,Fashion,Accessories,Van Heusen,No,Supplier C
+PROD10847,Allen Solly Accessories Item,Fashion,Accessories,Allen Solly,No,Supplier D
+PROD10848,Bata Accessories Item,Fashion,Accessories,Bata,No,Supplier B
+PROD10849,Allen Solly Accessories Item,Fashion,Accessories,Allen Solly,No,Supplier A
+PROD10850,Manyavar Accessories Item,Fashion,Accessories,Manyavar,No,Supplier B
+PROD10851,Manyavar Accessories Item,Fashion,Accessories,Manyavar,No,Supplier C
+PROD10852,Allen Solly Accessories Item,Fashion,Accessories,Allen Solly,No,Supplier A
+PROD10853,Allen Solly Accessories Item,Fashion,Accessories,Allen Solly,No,Supplier A
+PROD10854,Bata Accessories Item,Fashion,Accessories,Bata,No,Supplier A
+PROD10855,Peter England Accessories Item,Fashion,Accessories,Peter England,No,Supplier A
+PROD10856,Manyavar Accessories Item,Fashion,Accessories,Manyavar,No,Supplier B
+PROD10857,Van Heusen Accessories Item,Fashion,Accessories,Van Heusen,No,Supplier B
+PROD10858,Allen Solly Accessories Item,Fashion,Accessories,Allen Solly,No,Supplier B
+PROD10859,Allen Solly Accessories Item,Fashion,Accessories,Allen Solly,No,Supplier D
+PROD10860,Allen Solly Accessories Item,Fashion,Accessories,Allen Solly,No,Supplier C
+PROD10861,Allen Solly Accessories Item,Fashion,Accessories,Allen Solly,No,Supplier D
+PROD10862,Peter England Accessories Item,Fashion,Accessories,Peter England,No,Supplier D
+PROD10863,Van Heusen Accessories Item,Fashion,Accessories,Van Heusen,No,Supplier B
+PROD10864,Bata Accessories Item,Fashion,Accessories,Bata,No,Supplier B
+PROD10865,Van Heusen Accessories Item,Fashion,Accessories,Van Heusen,No,Supplier C
+PROD10866,Bata Accessories Item,Fashion,Accessories,Bata,No,Supplier B
+PROD10867,Manyavar Accessories Item,Fashion,Accessories,Manyavar,No,Supplier D
+PROD10868,Manyavar Accessories Item,Fashion,Accessories,Manyavar,No,Supplier D
+PROD10869,Manyavar Accessories Item,Fashion,Accessories,Manyavar,No,Supplier A
+PROD10870,Van Heusen Accessories Item,Fashion,Accessories,Van Heusen,No,Supplier D
+PROD10871,Manyavar Accessories Item,Fashion,Accessories,Manyavar,No,Supplier B
+PROD10872,Peter England Accessories Item,Fashion,Accessories,Peter England,No,Supplier C
+PROD10873,Bata Accessories Item,Fashion,Accessories,Bata,No,Supplier D
+PROD10874,Manyavar Accessories Item,Fashion,Accessories,Manyavar,No,Supplier B
+PROD10875,Haldiram Biscuits Item,Snacks & Beverages,Biscuits,Haldiram,Yes,Supplier D
+PROD10876,Lays Biscuits Item,Snacks & Beverages,Biscuits,Lays,No,Supplier D
+PROD10877,Tata Tea Biscuits Item,Snacks & Beverages,Biscuits,Tata Tea,No,Supplier D
+PROD10878,Britannia Biscuits Item,Snacks & Beverages,Biscuits,Britannia,Yes,Supplier B
+PROD10879,Haldiram Biscuits Item,Snacks & Beverages,Biscuits,Haldiram,Yes,Supplier B
+PROD10880,Tata Tea Biscuits Item,Snacks & Beverages,Biscuits,Tata Tea,No,Supplier D
+PROD10881,Haldiram Biscuits Item,Snacks & Beverages,Biscuits,Haldiram,Yes,Supplier C
+PROD10882,Parle Biscuits Item,Snacks & Beverages,Biscuits,Parle,Yes,Supplier B
+PROD10883,Tata Tea Biscuits Item,Snacks & Beverages,Biscuits,Tata Tea,No,Supplier D
+PROD10884,Coca-Cola Biscuits Item,Snacks & Beverages,Biscuits,Coca-Cola,No,Supplier B
+PROD10885,Tata Tea Biscuits Item,Snacks & Beverages,Biscuits,Tata Tea,No,Supplier A
+PROD10886,Tata Tea Biscuits Item,Snacks & Beverages,Biscuits,Tata Tea,No,Supplier D
+PROD10887,Coca-Cola Biscuits Item,Snacks & Beverages,Biscuits,Coca-Cola,No,Supplier A
+PROD10888,Lays Biscuits Item,Snacks & Beverages,Biscuits,Lays,No,Supplier C
+PROD10889,Coca-Cola Biscuits Item,Snacks & Beverages,Biscuits,Coca-Cola,No,Supplier B
+PROD10890,Parle Biscuits Item,Snacks & Beverages,Biscuits,Parle,Yes,Supplier A
+PROD10891,Parle Biscuits Item,Snacks & Beverages,Biscuits,Parle,Yes,Supplier D
+PROD10892,Haldiram Biscuits Item,Snacks & Beverages,Biscuits,Haldiram,Yes,Supplier A
+PROD10893,Tata Tea Biscuits Item,Snacks & Beverages,Biscuits,Tata Tea,No,Supplier B
+PROD10894,Tata Tea Biscuits Item,Snacks & Beverages,Biscuits,Tata Tea,No,Supplier B
+PROD10895,Parle Biscuits Item,Snacks & Beverages,Biscuits,Parle,Yes,Supplier C
+PROD10896,Lays Biscuits Item,Snacks & Beverages,Biscuits,Lays,No,Supplier A
+PROD10897,Haldiram Biscuits Item,Snacks & Beverages,Biscuits,Haldiram,Yes,Supplier D
+PROD10898,Parle Biscuits Item,Snacks & Beverages,Biscuits,Parle,Yes,Supplier D
+PROD10899,Lays Biscuits Item,Snacks & Beverages,Biscuits,Lays,No,Supplier D
+PROD10900,Britannia Biscuits Item,Snacks & Beverages,Biscuits,Britannia,Yes,Supplier B
+PROD10901,Britannia Biscuits Item,Snacks & Beverages,Biscuits,Britannia,Yes,Supplier B
+PROD10902,Coca-Cola Biscuits Item,Snacks & Beverages,Biscuits,Coca-Cola,No,Supplier C
+PROD10903,Tata Tea Biscuits Item,Snacks & Beverages,Biscuits,Tata Tea,No,Supplier C
+PROD10904,Haldiram Biscuits Item,Snacks & Beverages,Biscuits,Haldiram,Yes,Supplier A
+PROD10905,Haldiram Biscuits Item,Snacks & Beverages,Biscuits,Haldiram,Yes,Supplier C
+PROD10906,Lays Biscuits Item,Snacks & Beverages,Biscuits,Lays,No,Supplier B
+PROD10907,Britannia Biscuits Item,Snacks & Beverages,Biscuits,Britannia,Yes,Supplier D
+PROD10908,Lays Biscuits Item,Snacks & Beverages,Biscuits,Lays,No,Supplier A
+PROD10909,Lays Biscuits Item,Snacks & Beverages,Biscuits,Lays,No,Supplier D
+PROD10910,Tata Tea Biscuits Item,Snacks & Beverages,Biscuits,Tata Tea,No,Supplier C
+PROD10911,Britannia Biscuits Item,Snacks & Beverages,Biscuits,Britannia,Yes,Supplier B
+PROD10912,Tata Tea Biscuits Item,Snacks & Beverages,Biscuits,Tata Tea,No,Supplier B
+PROD10913,Britannia Biscuits Item,Snacks & Beverages,Biscuits,Britannia,Yes,Supplier A
+PROD10914,Lays Chips Item,Snacks & Beverages,Chips,Lays,No,Supplier B
+PROD10915,Tata Tea Chips Item,Snacks & Beverages,Chips,Tata Tea,No,Supplier A
+PROD10916,Parle Chips Item,Snacks & Beverages,Chips,Parle,Yes,Supplier D
+PROD10917,Britannia Chips Item,Snacks & Beverages,Chips,Britannia,Yes,Supplier C
+PROD10918,Britannia Chips Item,Snacks & Beverages,Chips,Britannia,Yes,Supplier B
+PROD10919,Haldiram Chips Item,Snacks & Beverages,Chips,Haldiram,Yes,Supplier D
+PROD10920,Lays Chips Item,Snacks & Beverages,Chips,Lays,No,Supplier A
+PROD10921,Lays Chips Item,Snacks & Beverages,Chips,Lays,No,Supplier D
+PROD10922,Lays Chips Item,Snacks & Beverages,Chips,Lays,No,Supplier B
+PROD10923,Haldiram Chips Item,Snacks & Beverages,Chips,Haldiram,Yes,Supplier A
+PROD10924,Haldiram Chips Item,Snacks & Beverages,Chips,Haldiram,Yes,Supplier B
+PROD10925,Tata Tea Chips Item,Snacks & Beverages,Chips,Tata Tea,No,Supplier D
+PROD10926,Haldiram Chips Item,Snacks & Beverages,Chips,Haldiram,Yes,Supplier A
+PROD10927,Haldiram Chips Item,Snacks & Beverages,Chips,Haldiram,Yes,Supplier A
+PROD10928,Lays Chips Item,Snacks & Beverages,Chips,Lays,No,Supplier C
+PROD10929,Coca-Cola Chips Item,Snacks & Beverages,Chips,Coca-Cola,No,Supplier C
+PROD10930,Lays Chips Item,Snacks & Beverages,Chips,Lays,No,Supplier A
+PROD10931,Lays Chips Item,Snacks & Beverages,Chips,Lays,No,Supplier B
+PROD10932,Lays Chips Item,Snacks & Beverages,Chips,Lays,No,Supplier B
+PROD10933,Lays Chips Item,Snacks & Beverages,Chips,Lays,No,Supplier A
+PROD10934,Parle Chips Item,Snacks & Beverages,Chips,Parle,Yes,Supplier A
+PROD10935,Tata Tea Chips Item,Snacks & Beverages,Chips,Tata Tea,No,Supplier D
+PROD10936,Parle Chips Item,Snacks & Beverages,Chips,Parle,Yes,Supplier D
+PROD10937,Tata Tea Chips Item,Snacks & Beverages,Chips,Tata Tea,No,Supplier A
+PROD10938,Britannia Chips Item,Snacks & Beverages,Chips,Britannia,Yes,Supplier C
+PROD10939,Haldiram Chips Item,Snacks & Beverages,Chips,Haldiram,Yes,Supplier B
+PROD10940,Tata Tea Chips Item,Snacks & Beverages,Chips,Tata Tea,No,Supplier A
+PROD10941,Lays Chips Item,Snacks & Beverages,Chips,Lays,No,Supplier D
+PROD10942,Tata Tea Chips Item,Snacks & Beverages,Chips,Tata Tea,No,Supplier C
+PROD10943,Haldiram Chips Item,Snacks & Beverages,Chips,Haldiram,Yes,Supplier A
+PROD10944,Haldiram Chips Item,Snacks & Beverages,Chips,Haldiram,Yes,Supplier A
+PROD10945,Lays Chips Item,Snacks & Beverages,Chips,Lays,No,Supplier A
+PROD10946,Britannia Chips Item,Snacks & Beverages,Chips,Britannia,Yes,Supplier D
+PROD10947,Lays Chips Item,Snacks & Beverages,Chips,Lays,No,Supplier A
+PROD10948,Parle Chips Item,Snacks & Beverages,Chips,Parle,Yes,Supplier B
+PROD10949,Coca-Cola Namkeen Item,Snacks & Beverages,Namkeen,Coca-Cola,No,Supplier A
+PROD10950,Parle Namkeen Item,Snacks & Beverages,Namkeen,Parle,Yes,Supplier C
+PROD10951,Britannia Namkeen Item,Snacks & Beverages,Namkeen,Britannia,Yes,Supplier A
+PROD10952,Britannia Namkeen Item,Snacks & Beverages,Namkeen,Britannia,Yes,Supplier B
+PROD10953,Lays Namkeen Item,Snacks & Beverages,Namkeen,Lays,No,Supplier B
+PROD10954,Britannia Namkeen Item,Snacks & Beverages,Namkeen,Britannia,Yes,Supplier C
+PROD10955,Lays Namkeen Item,Snacks & Beverages,Namkeen,Lays,No,Supplier D
+PROD10956,Haldiram Namkeen Item,Snacks & Beverages,Namkeen,Haldiram,Yes,Supplier A
+PROD10957,Haldiram Namkeen Item,Snacks & Beverages,Namkeen,Haldiram,Yes,Supplier B
+PROD10958,Haldiram Namkeen Item,Snacks & Beverages,Namkeen,Haldiram,Yes,Supplier C
+PROD10959,Lays Namkeen Item,Snacks & Beverages,Namkeen,Lays,No,Supplier C
+PROD10960,Parle Namkeen Item,Snacks & Beverages,Namkeen,Parle,Yes,Supplier C
+PROD10961,Coca-Cola Namkeen Item,Snacks & Beverages,Namkeen,Coca-Cola,No,Supplier C
+PROD10962,Coca-Cola Namkeen Item,Snacks & Beverages,Namkeen,Coca-Cola,No,Supplier D
+PROD10963,Coca-Cola Namkeen Item,Snacks & Beverages,Namkeen,Coca-Cola,No,Supplier D
+PROD10964,Tata Tea Namkeen Item,Snacks & Beverages,Namkeen,Tata Tea,No,Supplier B
+PROD10965,Britannia Namkeen Item,Snacks & Beverages,Namkeen,Britannia,Yes,Supplier D
+PROD10966,Lays Namkeen Item,Snacks & Beverages,Namkeen,Lays,No,Supplier C
+PROD10967,Tata Tea Namkeen Item,Snacks & Beverages,Namkeen,Tata Tea,No,Supplier A
+PROD10968,Parle Namkeen Item,Snacks & Beverages,Namkeen,Parle,Yes,Supplier D
+PROD10969,Parle Namkeen Item,Snacks & Beverages,Namkeen,Parle,Yes,Supplier B
+PROD10970,Tata Tea Namkeen Item,Snacks & Beverages,Namkeen,Tata Tea,No,Supplier D
+PROD10971,Haldiram Namkeen Item,Snacks & Beverages,Namkeen,Haldiram,Yes,Supplier A
+PROD10972,Coca-Cola Namkeen Item,Snacks & Beverages,Namkeen,Coca-Cola,No,Supplier A
+PROD10973,Lays Namkeen Item,Snacks & Beverages,Namkeen,Lays,No,Supplier B
+PROD10974,Parle Namkeen Item,Snacks & Beverages,Namkeen,Parle,Yes,Supplier B
+PROD10975,Coca-Cola Namkeen Item,Snacks & Beverages,Namkeen,Coca-Cola,No,Supplier A
+PROD10976,Tata Tea Namkeen Item,Snacks & Beverages,Namkeen,Tata Tea,No,Supplier A
+PROD10977,Parle Namkeen Item,Snacks & Beverages,Namkeen,Parle,Yes,Supplier D
+PROD10978,Coca-Cola Namkeen Item,Snacks & Beverages,Namkeen,Coca-Cola,No,Supplier D
+PROD10979,Parle Namkeen Item,Snacks & Beverages,Namkeen,Parle,Yes,Supplier A
+PROD10980,Coca-Cola Namkeen Item,Snacks & Beverages,Namkeen,Coca-Cola,No,Supplier A
+PROD10981,Parle Namkeen Item,Snacks & Beverages,Namkeen,Parle,Yes,Supplier A
+PROD10982,Parle Namkeen Item,Snacks & Beverages,Namkeen,Parle,Yes,Supplier B
+PROD10983,Parle Namkeen Item,Snacks & Beverages,Namkeen,Parle,Yes,Supplier A
+PROD10984,Coca-Cola Namkeen Item,Snacks & Beverages,Namkeen,Coca-Cola,No,Supplier C
+PROD10985,Parle Namkeen Item,Snacks & Beverages,Namkeen,Parle,Yes,Supplier A
+PROD10986,Haldiram Namkeen Item,Snacks & Beverages,Namkeen,Haldiram,Yes,Supplier C
+PROD10987,Britannia Namkeen Item,Snacks & Beverages,Namkeen,Britannia,Yes,Supplier B
+PROD10988,Haldiram Namkeen Item,Snacks & Beverages,Namkeen,Haldiram,Yes,Supplier D
+PROD10989,Britannia Namkeen Item,Snacks & Beverages,Namkeen,Britannia,Yes,Supplier B
+PROD10990,Britannia Namkeen Item,Snacks & Beverages,Namkeen,Britannia,Yes,Supplier A
+PROD10991,Tata Tea Namkeen Item,Snacks & Beverages,Namkeen,Tata Tea,No,Supplier A
+PROD10992,Haldiram Cold Drinks Item,Snacks & Beverages,Cold Drinks,Haldiram,Yes,Supplier C
+PROD10993,Tata Tea Cold Drinks Item,Snacks & Beverages,Cold Drinks,Tata Tea,No,Supplier A
+PROD10994,Britannia Cold Drinks Item,Snacks & Beverages,Cold Drinks,Britannia,Yes,Supplier C
+PROD10995,Tata Tea Cold Drinks Item,Snacks & Beverages,Cold Drinks,Tata Tea,No,Supplier B
+PROD10996,Parle Cold Drinks Item,Snacks & Beverages,Cold Drinks,Parle,Yes,Supplier D
+PROD10997,Parle Cold Drinks Item,Snacks & Beverages,Cold Drinks,Parle,Yes,Supplier D
+PROD10998,Tata Tea Cold Drinks Item,Snacks & Beverages,Cold Drinks,Tata Tea,No,Supplier A
+PROD10999,Lays Cold Drinks Item,Snacks & Beverages,Cold Drinks,Lays,No,Supplier B
+PROD11000,Coca-Cola Cold Drinks Item,Snacks & Beverages,Cold Drinks,Coca-Cola,No,Supplier B
+PROD11001,Lays Cold Drinks Item,Snacks & Beverages,Cold Drinks,Lays,No,Supplier B
+PROD11002,Coca-Cola Cold Drinks Item,Snacks & Beverages,Cold Drinks,Coca-Cola,No,Supplier D
+PROD11003,Coca-Cola Cold Drinks Item,Snacks & Beverages,Cold Drinks,Coca-Cola,No,Supplier B
+PROD11004,Britannia Cold Drinks Item,Snacks & Beverages,Cold Drinks,Britannia,Yes,Supplier B
+PROD11005,Tata Tea Cold Drinks Item,Snacks & Beverages,Cold Drinks,Tata Tea,No,Supplier B
+PROD11006,Haldiram Cold Drinks Item,Snacks & Beverages,Cold Drinks,Haldiram,Yes,Supplier B
+PROD11007,Tata Tea Cold Drinks Item,Snacks & Beverages,Cold Drinks,Tata Tea,No,Supplier A
+PROD11008,Parle Cold Drinks Item,Snacks & Beverages,Cold Drinks,Parle,Yes,Supplier A
+PROD11009,Haldiram Cold Drinks Item,Snacks & Beverages,Cold Drinks,Haldiram,Yes,Supplier C
+PROD11010,Coca-Cola Cold Drinks Item,Snacks & Beverages,Cold Drinks,Coca-Cola,No,Supplier C
+PROD11011,Tata Tea Cold Drinks Item,Snacks & Beverages,Cold Drinks,Tata Tea,No,Supplier D
+PROD11012,Parle Cold Drinks Item,Snacks & Beverages,Cold Drinks,Parle,Yes,Supplier D
+PROD11013,Parle Cold Drinks Item,Snacks & Beverages,Cold Drinks,Parle,Yes,Supplier C
+PROD11014,Lays Cold Drinks Item,Snacks & Beverages,Cold Drinks,Lays,No,Supplier B
+PROD11015,Parle Cold Drinks Item,Snacks & Beverages,Cold Drinks,Parle,Yes,Supplier A
+PROD11016,Britannia Cold Drinks Item,Snacks & Beverages,Cold Drinks,Britannia,Yes,Supplier D
+PROD11017,Lays Cold Drinks Item,Snacks & Beverages,Cold Drinks,Lays,No,Supplier A
+PROD11018,Tata Tea Cold Drinks Item,Snacks & Beverages,Cold Drinks,Tata Tea,No,Supplier B
+PROD11019,Britannia Cold Drinks Item,Snacks & Beverages,Cold Drinks,Britannia,Yes,Supplier C
+PROD11020,Coca-Cola Cold Drinks Item,Snacks & Beverages,Cold Drinks,Coca-Cola,No,Supplier A
+PROD11021,Haldiram Cold Drinks Item,Snacks & Beverages,Cold Drinks,Haldiram,Yes,Supplier D
+PROD11022,Coca-Cola Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Coca-Cola,No,Supplier B
+PROD11023,Haldiram Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Haldiram,Yes,Supplier C
+PROD11024,Tata Tea Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Tata Tea,No,Supplier A
+PROD11025,Haldiram Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Haldiram,Yes,Supplier B
+PROD11026,Coca-Cola Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Coca-Cola,No,Supplier C
+PROD11027,Coca-Cola Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Coca-Cola,No,Supplier B
+PROD11028,Coca-Cola Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Coca-Cola,No,Supplier D
+PROD11029,Coca-Cola Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Coca-Cola,No,Supplier C
+PROD11030,Lays Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Lays,No,Supplier A
+PROD11031,Haldiram Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Haldiram,Yes,Supplier B
+PROD11032,Coca-Cola Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Coca-Cola,No,Supplier D
+PROD11033,Britannia Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Britannia,Yes,Supplier D
+PROD11034,Coca-Cola Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Coca-Cola,No,Supplier C
+PROD11035,Parle Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Parle,Yes,Supplier A
+PROD11036,Coca-Cola Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Coca-Cola,No,Supplier A
+PROD11037,Tata Tea Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Tata Tea,No,Supplier B
+PROD11038,Lays Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Lays,No,Supplier C
+PROD11039,Tata Tea Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Tata Tea,No,Supplier A
+PROD11040,Parle Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Parle,Yes,Supplier D
+PROD11041,Lays Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Lays,No,Supplier A
+PROD11042,Britannia Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Britannia,Yes,Supplier A
+PROD11043,Coca-Cola Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Coca-Cola,No,Supplier A
+PROD11044,Tata Tea Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Tata Tea,No,Supplier B
+PROD11045,Lays Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Lays,No,Supplier B
+PROD11046,Coca-Cola Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Coca-Cola,No,Supplier D
+PROD11047,Haldiram Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Haldiram,Yes,Supplier D
+PROD11048,Tata Tea Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Tata Tea,No,Supplier A
+PROD11049,Parle Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Parle,Yes,Supplier C
+PROD11050,Haldiram Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Haldiram,Yes,Supplier D
+PROD11051,Parle Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Parle,Yes,Supplier B
+PROD11052,Tata Tea Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Tata Tea,No,Supplier D
+PROD11053,Britannia Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Britannia,Yes,Supplier C
+PROD11054,Coca-Cola Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Coca-Cola,No,Supplier A
+PROD11055,Lays Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Lays,No,Supplier C
+PROD11056,Britannia Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Britannia,Yes,Supplier A
+PROD11057,Coca-Cola Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Coca-Cola,No,Supplier C
+PROD11058,Parle Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Parle,Yes,Supplier B
+PROD11059,Tata Tea Tea & Coffee Item,Snacks & Beverages,Tea & Coffee,Tata Tea,No,Supplier D

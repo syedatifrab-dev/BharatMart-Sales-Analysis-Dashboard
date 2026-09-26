@@ -1,0 +1,53 @@
+StoreID,StoreName,City,State,Region,Tier,StoreSize,OpeningDate,EmployeeCount,FemaleEmployeePercent,ParkingCapacity,HasCafe
+1001,BharatMart Mumbai - Andheri,Mumbai,Maharashtra,West,Tier-1,Large,2020-01-15,61,58,85,Yes
+1002,BharatMart Mumbai - Powai,Mumbai,Maharashtra,West,Tier-1,Large,2020-02-04,68,58,63,Yes
+1003,BharatMart Mumbai - Bandra,Mumbai,Maharashtra,West,Tier-1,Very Large,2020-02-24,62,35,61,Yes
+1004,BharatMart Mumbai - Thane,Mumbai,Maharashtra,West,Tier-1,Large,2020-03-15,92,54,53,Yes
+1005,BharatMart Mumbai - Navi Mumbai,Mumbai,Maharashtra,West,Tier-1,Very Large,2020-04-04,74,49,125,No
+1006,BharatMart Mumbai - Borivali,Mumbai,Maharashtra,West,Tier-1,Large,2020-04-24,70,57,104,No
+1007,BharatMart Mumbai - Dadar,Mumbai,Maharashtra,West,Tier-1,Very Large,2020-05-14,69,41,147,No
+1008,BharatMart Mumbai - Kurla,Mumbai,Maharashtra,West,Tier-1,Large,2020-06-03,65,47,62,No
+1009,BharatMart Delhi - Connaught Place,Delhi,Delhi,North,Tier-1,Very Large,2020-06-23,98,43,55,No
+1010,BharatMart Delhi - Dwarka,Delhi,Delhi,North,Tier-1,Large,2020-07-13,84,37,120,No
+1011,BharatMart Delhi - Rohini,Delhi,Delhi,North,Tier-1,Very Large,2020-08-02,96,41,140,Yes
+1012,BharatMart Delhi - Janakpuri,Delhi,Delhi,North,Tier-1,Large,2020-08-22,74,59,87,Yes
+1013,BharatMart Delhi - Lajpat Nagar,Delhi,Delhi,North,Tier-1,Large,2020-09-11,66,47,85,No
+1014,BharatMart Delhi - Nehru Place,Delhi,Delhi,North,Tier-1,Very Large,2020-10-01,70,46,95,Yes
+1015,BharatMart Delhi - Karol Bagh,Delhi,Delhi,North,Tier-1,Very Large,2020-10-21,64,54,131,Yes
+1016,BharatMart Bangalore - Koramangala,Bangalore,Karnataka,South,Tier-1,Large,2020-11-10,70,49,98,No
+1017,BharatMart Bangalore - Indiranagar,Bangalore,Karnataka,South,Tier-1,Large,2020-11-30,80,61,148,Yes
+1018,BharatMart Bangalore - Whitefield,Bangalore,Karnataka,South,Tier-1,Large,2020-12-20,62,60,90,No
+1019,BharatMart Bangalore - Electronic City,Bangalore,Karnataka,South,Tier-1,Very Large,2021-01-09,64,41,122,No
+1020,BharatMart Bangalore - Jayanagar,Bangalore,Karnataka,South,Tier-1,Large,2021-01-29,91,47,132,No
+1021,BharatMart Bangalore - Marathahalli,Bangalore,Karnataka,South,Tier-1,Large,2021-02-18,76,39,81,No
+1022,BharatMart Hyderabad - Hitech City,Hyderabad,Telangana,South,Tier-1,Very Large,2021-03-10,97,47,96,Yes
+1023,BharatMart Hyderabad - Banjara Hills,Hyderabad,Telangana,South,Tier-1,Large,2021-03-30,92,50,61,Yes
+1024,BharatMart Hyderabad - Madhapur,Hyderabad,Telangana,South,Tier-1,Large,2021-04-19,69,55,70,No
+1025,BharatMart Hyderabad - Kukatpally,Hyderabad,Telangana,South,Tier-1,Large,2021-05-09,84,47,126,No
+1026,BharatMart Hyderabad - LB Nagar,Hyderabad,Telangana,South,Tier-1,Very Large,2021-05-29,95,62,51,Yes
+1027,BharatMart Chennai - T Nagar,Chennai,Tamil Nadu,South,Tier-1,Very Large,2021-06-18,81,38,87,No
+1028,BharatMart Chennai - Anna Nagar,Chennai,Tamil Nadu,South,Tier-1,Large,2021-07-08,89,35,142,No
+1029,BharatMart Chennai - Velachery,Chennai,Tamil Nadu,South,Tier-1,Large,2021-07-28,92,64,63,No
+1030,BharatMart Chennai - Adyar,Chennai,Tamil Nadu,South,Tier-1,Large,2021-08-17,69,46,147,Yes
+1031,BharatMart Chennai - Tambaram,Chennai,Tamil Nadu,South,Tier-1,Large,2021-09-06,98,45,112,Yes
+1032,BharatMart Kolkata - Salt Lake,Kolkata,West Bengal,East,Tier-1,Large,2021-09-26,83,63,89,Yes
+1033,BharatMart Kolkata - Park Street,Kolkata,West Bengal,East,Tier-1,Large,2021-10-16,75,63,122,Yes
+1034,BharatMart Kolkata - Howrah,Kolkata,West Bengal,East,Tier-1,Large,2021-11-05,91,61,58,Yes
+1035,BharatMart Kolkata - New Town,Kolkata,West Bengal,East,Tier-1,Large,2021-11-25,90,65,120,Yes
+1036,BharatMart Pune - Hinjewadi,Pune,Maharashtra,West,Tier-2,Medium,2021-12-15,46,62,127,No
+1037,BharatMart Pune - Kothrud,Pune,Maharashtra,West,Tier-2,Small,2022-01-04,23,59,143,Yes
+1038,BharatMart Pune - Viman Nagar,Pune,Maharashtra,West,Tier-2,Large,2022-01-24,79,47,135,No
+1039,BharatMart Ahmedabad - Satellite,Ahmedabad,Gujarat,West,Tier-2,Medium,2022-02-13,46,49,65,Yes
+1040,BharatMart Ahmedabad - Prahlad Nagar,Ahmedabad,Gujarat,West,Tier-2,Small,2022-03-05,16,45,52,Yes
+1041,BharatMart Ahmedabad - Vastrapur,Ahmedabad,Gujarat,West,Tier-2,Large,2022-03-25,74,35,59,Yes
+1042,BharatMart Jaipur - Malviya Nagar,Jaipur,Rajasthan,North,Tier-2,Small,2022-04-14,16,63,54,No
+1043,BharatMart Jaipur - Vaishali Nagar,Jaipur,Rajasthan,North,Tier-2,Small,2022-05-04,23,42,85,No
+1044,BharatMart Lucknow - Gomti Nagar,Lucknow,Uttar Pradesh,North,Tier-2,Small,2022-05-24,23,39,142,No
+1045,BharatMart Lucknow - Hazratganj,Lucknow,Uttar Pradesh,North,Tier-2,Small,2022-06-13,22,60,102,Yes
+1046,BharatMart Chandigarh - Sector 17,Chandigarh,Chandigarh,North,Tier-2,Small,2022-07-03,16,56,105,No
+1047,BharatMart Chandigarh - Sector 35,Chandigarh,Chandigarh,North,Tier-2,Medium,2022-07-23,43,49,143,Yes
+1048,BharatMart Bhopal - New Market,Bhopal,Madhya Pradesh,Central,Tier-2,Large,2022-08-12,66,36,101,No
+1049,BharatMart Indore - Vijay Nagar,Indore,Madhya Pradesh,Central,Tier-2,Small,2022-09-01,18,41,74,No
+1050,BharatMart Nagpur - Sitabuldi,Nagpur,Maharashtra,Central,Tier-2,Small,2022-09-21,21,40,85,No
+1051,BharatMart Coimbatore - RS Puram,Coimbatore,Tamil Nadu,South,Tier-3,Small,2022-10-11,16,49,45,Yes
+1052,BharatMart Mysore - Vijayanagar,Mysore,Karnataka,South,Tier-3,Small,2022-10-31,25,52,46,Yes
