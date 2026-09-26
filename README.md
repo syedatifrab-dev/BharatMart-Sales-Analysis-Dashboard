@@ -1,4 +1,7 @@
 # 📊 BharatMart Sales Analysis Dashboard
+BharatMart Sales Analysis Dashboard is an interactive Power BI sales analytics project designed to provide a comprehensive view of business performance across cities, suppliers, product categories, customer tiers, states, and membership segments.
+
+The dashboard transforms sales transaction data into meaningful KPIs and interactive visualizations to help stakeholders understand revenue performance, customer contribution, product demand, supplier performance, and geographic sales distribution.
 
 
 
