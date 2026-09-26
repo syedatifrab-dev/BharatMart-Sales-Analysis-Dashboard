@@ -40,7 +40,11 @@ The primary objective of this project is to build an interactive sales analytics
 
 ## 🖼️ Dashboard Preview
 
-![BharatMart Sales Analysis Dashboard](assets/dashboard-preview.png)
+## 📸 Dashboard Preview
+
+<p align="center">
+  <img src="BharatMart.png" alt="BharatMart Sales Analysis Dashboard" width="1000">
+</p>
 
 ---
 
